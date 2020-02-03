@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatLeftBubble" value="-4787206" />
+    <int name="BGColor" value="-3676164" />
+    <boolean name="yo_hideinfo" value="true" />
+    <boolean name="custom_wall" value="false" />
+    <string name="tick_style">newwaca</string>
+    <int name="quoted_bg_picker" value="-4787206" />
+    <int name="ModChatDarkColor" value="-9726995" />
+    <int name="ModChatGStatusB" value="-12533557" />
+    <int name="ModFabNormalColor" value="-9726995" />
+    <string name="yo_nicons">12</string>
+    <int name="ModChaSendBKColor" value="-3676164" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConColor" value="-12533557" />
+    <int name="pic_chat_size_picker" value="100" />
+    <int name="ModChatRightBubble" value="-7952415" />
+    <int name="date_divider_color_picker" value="-3676164" />
+    <int name="ConvoBack" value="-9726995" />
+    <int name="ModChatTextColor" value="-1" />
+    <string name="font">BebasNeue</string>
+    <string name="ConvoEntry">1</string>
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <boolean name="my_statusd" value="true" />
+    <boolean name="onlinechat" value="false" />
+    <int name="ModChatBubbleText" value="-1" />
+    <int name="ModlastseenColor" value="-10467830" />
+    <boolean name="PicProf" value="true" />
+    <int name="emojipopup_header" value="-7952415" />
+    <boolean name="hide_action_l" value="false" />
+    <boolean name="chat_contactpic" value="false" />
+    <int name="text_size_pick" value="15" />
+    <int name="quoted_name_picker" value="-1" />
+    <boolean name="hide_action_m" value="false" />
+    <int name="date_left_color" value="-9726995" />
+    <boolean name="Conv_call_btn" value="true" />
+    <int name="ModChaSendColor" value="-1" />
+    <string name="bubble_style">d3</string>
+    <int name="ModFabTextColor" value="-12758172" />
+    <int name="main_text" value="16" />
+    <int name="ModOnlineColor" value="-9726995" />
+    <int name="ModChatBubbleTextLeft" value="-9726995" />
+    <int name="HomeBarText" value="-1" />
+    <int name="emojipopup_icons" value="-4787206" />
+    <int name="quoted_divider_picker" value="-9726995" />
+    <int name="date_right_color" value="-9726995" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="statuschat" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatEntry" value="-9726995" />
+    <boolean name="Archv_chats" value="false" />
+    <int name="ModDarkConPickColorNav" value="-9726995" />
+    <int name="ModConBackColor" value="-3676164" />
+    <boolean name="chat_mypic" value="false" />
+    <boolean name="group_mypic" value="false" />
+    <int name="quoted_text_picker" value="-14796448" />
+    <int name="emojipopup_body" value="-3676164" />
+    <int name="ModConDarkColor" value="-9726995" />
+    <boolean name="TxtSelect" value="true" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="enable_old" value="false" />
+    <int name="ModConTextColor" value="-9726995" />
+    <int name="ModChatGStatusT" value="-4787206" />
+    <int name="ModChatBubbleHyperlinks" value="-9726995" />
+    <int name="date_bubble_color_picker" value="-9726995" />
+    <int name="HomeCounterBK" value="-9726995" />
+    <string name="convostyle">3</string>
+    <boolean name="group_participants_pic" value="false" />
+    <boolean name="hide_action_a" value="false" />
+    <int name="ModChatEmojiColor" value="-3676164" />
+    <int name="ModDarkConPickColor" value="-9726995" />
+    <string name="HomeEntry">yousef</string>
+    <boolean name="hide_action_b" value="false" />
+    <int name="ModConPickColor" value="-9726995" />
+    <boolean name="elapsed_time" value="false" />
+    <int name="ModChatBtnColor" value="-1" />
+    <int name="ModConPickBackColor" value="-3676164" />
+    <int name="ModChatColor" value="-9726995" />
+    <int name="row_resizer" value="0" />
+</map>

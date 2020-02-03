@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="-557989958" />
+    <int name="ModChatLeftBubble" value="-422919241" />
+    <int name="BGColor" value="-1974973107" />
+    <boolean name="yo_hideinfo" value="false" />
+    <int name="ModChatDarkColor" value="-12499641" />
+    <string name="tick_style">wbg</string>
+    <int name="ModFabNormalColor" value="-12499641" />
+    <int name="ModConBackColor" value="-3154210" />
+    <int name="ModChaSendBKColor" value="-649610028" />
+    <int name="ModConDarkColor" value="-12499641" />
+    <int name="ModConColor" value="-12499641" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModChatRightBubble" value="-380083876" />
+    <int name="ModChatTextColor" value="-13948117" />
+    <string name="ConvoEntry">1</string>
+    <string name="font">Default</string>
+    <int name="ModChatBubbleText" value="-1" />
+    <boolean name="PicProf" value="true" />
+    <int name="ModlastseenColor" value="-1399188" />
+    <int name="ModConTextColor" value="-14409182" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="15" />
+    <int name="date_left_color" value="-1104335571" />
+    <int name="ModChatEmojiColor" value="-2039584" />
+    <int name="ModDarkConPickColor" value="-12499641" />
+    <int name="ModChaSendColor" value="-6081784" />
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">altcr</string>
+    <int name="main_text" value="17" />
+    <int name="ModOnlineColor" value="-6959928" />
+    <int name="ModConPickColor" value="-12499641" />
+    <int name="HomeBarText" value="-1118482" />
+    <int name="ModChatBubbleTextLeft" value="-15000805" />
+    <int name="ModChatBtnColor" value="-2230798" />
+    <int name="date_right_color" value="-555358747" />
+    <int name="ModConPickBackColor" value="-3154210" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-12499641" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

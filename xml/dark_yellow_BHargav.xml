@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="true" />
+    <int name="BGColor" value="855638015" />
+    <boolean name="yo_hideinfo" value="true" />
+    <string name="tick_style">treble</string>
+    <int name="ModChatTextColor" value="-16777216" />
+    <int name="ModConPickBackColor" value="-687865856" />
+    <boolean name="my_name" value="true" />
+    <int name="ModFabPressedColor" value="-1179183327" />
+    <int name="ModConPickColor" value="-16777216" />
+    <int name="ModDarkConPickColor" value="-16777216" />
+    <int name="ModConColor" value="-16777216" />
+    <int name="ModConDarkColor" value="-16777216" />
+    <int name="ModChatBtnColor" value="-1" />
+    <int name="ModlastseenColor" value="-1" />
+    <string name="ConvoEntry">0</string>
+    <boolean name="my_statusd" value="true" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModFabNormalColor" value="-4777439" />
+    <int name="ModOnlineColor" value="-1" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="ModChatGStatusT" value="-16777216" />
+    <int name="ModConTextColor" value="-8960" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="15" />
+    <int name="ModConBackColor" value="-687865856" />
+    <int name="ModChatDarkColor" value="-16777216" />
+    <int name="ModChatLeftBubble" value="-1308622848" />
+    <int name="ModChatRightBubble" value="-872424192" />
+    <int name="ModChatEntry" value="2063588608" />
+    <string name="HomeEntry">yowa</string>
+    <boolean name="Conv_call_btn" value="false" />
+    <string name="bubble_style">dual</string>
+    <int name="main_text" value="15" />
+    <int name="ModChatBubbleText" value="-16777216" />
+    <int name="ModChatColor" value="-16777216" />
+    <int name="ModChatBubbleTextLeft" value="-8960" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="AttBt" value="true" />
+    <boolean name="statuschat" value="false" />
+    <int name="ModChatGStatusB" value="-8960" />
+    <int name="square_photo_ratio_picker" value="10" />
+</map>

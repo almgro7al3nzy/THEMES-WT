@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="square_photo_ratio_picker" value="54" />
+<boolean name="enable_old" value="false" />
+<boolean name="Pop_Heds" value="true" />
+<int name="ModChatGStatusT" value="-1" />
+<int name="main_text" value="14" />
+<int name="ModConColor" value="-16759800" />
+<boolean name="Hide_div" value="true" />
+<boolean name="Conv_call_btn" value="false" />
+<string name="ConvoEntry">0</string>
+<int name="ModConPickColor" value="-16759800" />
+<int name="ModChatGStatusB" value="-1711258616" />
+<int name="ModChatLeftBubble" value="-1381654" />
+<int name="ModChatRightBubble" value="-11839646" />
+<boolean name="log_show_name_check" value="true" />
+<int name="ModFabPressedColor" value="-16757752" />
+<int name="ModlastseenColor" value="-69120" />
+<int name="ModChatBubbleTextLeft" value="-13619152" />
+<int name="ModChatColor" value="-16759800" />
+<string name="yo_nicons">4</string>
+<boolean name="hide_fab" value="false" />
+<int name="text_size_pick" value="14" />
+<int name="ModOnlineColor" value="-14778624" />
+<int name="ModChatTextColor" value="-1" />
+<int name="ModConPickBackColor" value="-1447448" />
+<int name="ModChatBubbleText" value="-1" />
+<boolean name="my_statusd" value="false" />
+<boolean name="my_name" value="true" />
+<string name="bubble_style">apple</string>
+<boolean name="PicProf" value="false" />
+<boolean name="AttBt" value="false" />
+<boolean name="onlinechat" value="false" />
+<int name="ModConDarkColor" value="-10347167" />
+<boolean name="extended_notifi" value="false" />
+<int name="ModChatBtnColor" value="-1" />
+<string name="HomeEntry">nlmods</string>
+<string name="convostyle">1</string>
+<int name="ModChatDarkColor" value="-10347167" />
+<boolean name="start_bl" value="true" />
+<int name="ModConBackColor" value="-1447448" />
+<int name="BGColor" value="16777215" />
+<int name="ModDarkConPickColor" value="-10347167" />
+<string name="tick_style">circle</string>
+<int name="ModFabNormalColor" value="-16759800" />
+</map>

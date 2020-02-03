@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="-786413976" />
+    <int name="ModChatLeftBubble" value="-827684763" />
+    <int name="BGColor" value="-1289543390" />
+    <boolean name="yo_hideinfo" value="false" />
+    <int name="ModChatDarkColor" value="-14408668" />
+    <string name="tick_style">circles</string>
+    <int name="ModChatGStatusB" value="-1759633890" />
+    <int name="ModFabNormalColor" value="-14408668" />
+    <int name="ModConBackColor" value="-4545401" />
+    <string name="yo_nicons">0</string>
+    <int name="ModChaSendBKColor" value="-1077182" />
+    <int name="ModConDarkColor" value="-14408668" />
+    <int name="ModConColor" value="-14408668" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModChatRightBubble" value="-902877393" />
+    <int name="ModChatTextColor" value="-1" />
+    <string name="ConvoEntry">0</string>
+    <string name="font">Comfortaa</string>
+    <int name="ModChatBubbleText" value="-2105377" />
+    <int name="ModlastseenColor" value="-4235425" />
+    <int name="ModConTextColor" value="-14803426" />
+    <int name="ModChatGStatusT" value="-2039584" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="15" />
+    <int name="date_left_color" value="-841558314" />
+    <int name="ModChatEmojiColor" value="-5460820" />
+    <int name="ModDarkConPickColor" value="-14408668" />
+    <int name="ModChaSendColor" value="-6679789" />
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">apple</string>
+    <int name="main_text" value="16" />
+    <int name="ModOnlineColor" value="-3199443" />
+    <int name="ModConPickColor" value="-14408668" />
+    <int name="HomeBarText" value="-1" />
+    <int name="ModChatBubbleTextLeft" value="-1579033" />
+    <int name="ModChatBtnColor" value="-3199443" />
+    <int name="date_right_color" value="-759185473" />
+    <int name="ModConPickBackColor" value="-4545401" />
+    <boolean name="AttBt" value="false" />
+    <int name="ModChatColor" value="-14408668" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

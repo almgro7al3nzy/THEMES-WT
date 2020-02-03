@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="square_photo_ratio_picker" value="27" />
+<int name="ModChatGStatusB" value="-387126036" />
+<boolean name="Pop_Heds" value="false" />
+<int name="main_text" value="16" />
+<int name="ModFabPressedColor" value="-1599943937" />
+<int name="date_right_color" value="-1" />
+<boolean name="TxtSelect" value="false" />
+<int name="ModFabBgColor" value="-1599943937" />
+<boolean name="Hide_div" value="true" />
+<int name="ModChatBtnColor" value="-13911553" />
+<boolean name="Img_highres_btn" value="true" />
+<int name="ConvoBack" value="-13619152" />
+<boolean name="Archv_chats" value="false" />
+<boolean name="Conv_call_btn" value="true" />
+<string name="ConvoEntry">3</string>
+<int name="ModChatEmojiColor" value="-16191745" />
+<boolean name="Up_size_limit" value="true" />
+<int name="ModChatGStatusT" value="-13619152" />
+<int name="ModConPickColor" value="-14540254" />
+<int name="ModConColor" value="-14540254" />
+<string name="yo_nicons">0</string>
+<boolean name="hide_fab" value="false" />
+<int name="text_size_pick" value="15" />
+<int name="ModlastseenColor" value="-12082971" />
+<int name="ModChatTextColor" value="-1" />
+<int name="ModChatColor" value="-14540254" />
+<int name="ModChatBubbleTextLeft" value="-1" />
+<int name="ModOnlineColor" value="-16724993" />
+<int name="ModChaSendColor" value="-14967553" />
+<int name="HomeBarText" value="-6108417" />
+<boolean name="my_name" value="true" />
+<string name="bubble_style">hangouts</string>
+<boolean name="PicProf" value="true" />
+<boolean name="AttBt" value="false" />
+<boolean name="Img_share_limit" value="true" />
+<int name="ModChatLeftBubble" value="-12434878" />
+<int name="date_left_color" value="-1" />
+<int name="ModFabNormalColor" value="-1608375774" />
+<int name="ModChatRightBubble" value="-13487566" />
+<boolean name="custom_wall" value="false" />
+<string name="convostyle">3</string>
+<string name="HomeEntry">telegram</string>
+<boolean name="start_bl" value="true" />
+<int name="BGColor" value="-14540254" />
+<int name="ModChatBubbleText" value="-1" />
+<string name="tick_style">ios</string>
+<boolean name="yo_hideinfo" value="true" />
+</map>

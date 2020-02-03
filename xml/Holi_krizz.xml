@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="true" />
+    <int name="ModChatLeftBubble" value="-3063814" />
+    
+    <int name="BGColor" value="-1" />
+    <string name="tick_style">hd</string>
+    <int name="ModChatDarkColor" value="-16740101" />
+    <int name="ModChatGStatusB" value="-1" />
+    <int name="ModFabNormalColor" value="-16740101" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-16740101" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModConColor" value="-16740101" />
+    <boolean name="Pop_Heds" value="false" />
+    <int name="ModChatRightBubble" value="-6365693" />
+    <string name="ConvoEntry">1</string>
+    <int name="ModlastseenColor" value="-16725509" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModChatGStatusT" value="-13619152" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="convostyle">1</string>
+    <int name="text_size_pick" value="15" />
+    <boolean name="Img_highres_btn" value="true" />
+    <int name="ModFabPressedColor" value="-2407369" />
+    <boolean name="Up_size_limit" value="true" />
+    <int name="ModDarkConPickColor" value="-16740101" />
+    <string name="HomeEntry">waca</string>
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">rounded</string>
+    <int name="main_text" value="15" />
+    <int name="ModOnlineColor" value="-16725509" />
+    <int name="ModConPickColor" value="-16740101" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <int name="ModChatBtnColor" value="-16740101" />
+    <int name="date_right_color" value="-1" />
+    <boolean name="Img_share_limit" value="true" />
+    <boolean name="hide_fab" value="false" />
+    <int name="ModChatColor" value="-16740101" />
+    <boolean name="AttBt" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

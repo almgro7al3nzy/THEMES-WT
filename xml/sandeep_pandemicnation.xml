@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatLeftBubble" value="-1956281188" />
+    <int name="BGColor" value="-1426692727" />
+    <int name="ModChatDarkColor" value="-14401451" />
+    <string name="tick_style">altcrayon</string>
+    <int name="ModChatGStatusB" value="-722434" />
+    <int name="ModFabNormalColor" value="-5418636" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-14401451" />
+    <int name="ModConColor" value="-14401451" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModChatRightBubble" value="-1956281188" />
+    <int name="ModChatTextColor" value="-2314" />
+    <boolean name="my_statusd" value="false" />
+    <string name="ConvoEntry">2</string>
+    <int name="ModChatBubbleText" value="-1" />
+    <int name="ModlastseenColor" value="-5418636" />
+    <int name="ModChatGStatusT" value="-248740" />
+    <int name="text_size_pick" value="15" />
+    <int name="ModFabPressedColor" value="-629367" />
+    <int name="date_left_color" value="-14473922" />
+    <int name="ModDarkConPickColor" value="-14401451" />
+    <int name="main_text" value="15" />
+    <int name="ModOnlineColor" value="-5418636" />
+    <int name="ModConPickColor" value="-14401451" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <int name="ModChatBtnColor" value="-10207130" />
+    <int name="date_right_color" value="-14473922" />
+    <boolean name="AttBt" value="false" />
+    <int name="ModChatColor" value="-14401451" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

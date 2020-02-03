@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="-569175277" />
+    <int name="ModChatLeftBubble" value="-652535269" />
+    <int name="BGColor" value="-1910892006" />
+    <boolean name="yo_hideinfo" value="false" />
+    <string name="tick_style">altcrayonv2</string>
+    <int name="ModChatDarkColor" value="-14671840" />
+    <int name="ModConBackColor" value="-10928786" />
+    <int name="ModFabNormalColor" value="-14671840" />
+    <int name="ModChaSendBKColor" value="-10928786" />
+    <int name="ModConDarkColor" value="-14671840" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModConColor" value="-14671840" />
+    <int name="ModChatRightBubble" value="-648462994" />
+    <int name="ModChatTextColor" value="-1" />
+    <string name="font">Roboto-Light</string>
+    <string name="ConvoEntry">0</string>
+    <int name="ModChatBubbleText" value="-1451811" />
+    <int name="ModlastseenColor" value="-3294486" />
+    <boolean name="PicProf" value="true" />
+    <int name="ModConTextColor" value="-1513240" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="15" />
+    <int name="date_left_color" value="-1161246520" />
+    <int name="ModChatEmojiColor" value="-205983" />
+    <int name="ModDarkConPickColor" value="-14671840" />
+    <boolean name="Conv_call_btn" value="true" />
+    <int name="ModChaSendColor" value="-1" />
+    <string name="bubble_style">gosms</string>
+    <int name="main_text" value="16" />
+    <int name="ModConPickColor" value="-14671840" />
+    <int name="ModOnlineColor" value="-4245" />
+    <int name="ModChatBubbleTextLeft" value="-1315861" />
+    <int name="HomeBarText" value="-1118482" />
+    <int name="ModChatBtnColor" value="-10928786" />
+    <int name="date_right_color" value="-34542349" />
+    <int name="ModConPickBackColor" value="-10928786" />
+    <int name="ModChatColor" value="-14671840" />
+    <boolean name="AttBt" value="true" />
+    <int name="row_resizer" value="0" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="BGColor" value="16774785" />
+    <boolean name="yo_hideinfo" value="true" />
+    <string name="tick_style">google</string>
+    <boolean name="my_name" value="true" />
+    <int name="ModConPickBackColor" value="-5395027" />
+    <int name="ModConPickColor" value="-16252820" />
+    <int name="ModConColor" value="-16252820" />
+    <boolean name="my_statusd" value="true" />
+    <string name="ConvoEntry">1</string>
+    <boolean name="onlinechat" value="false" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModOnlineColor" value="-16718583" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="text_size_pick" value="15" />
+    <int name="ModConBackColor" value="-5395027" />
+    <int name="ModChatDarkColor" value="-16252820" />
+    <boolean name="Up_size_limit" value="true" />
+    <int name="ModChatLeftBubble" value="-645922816" />
+    <int name="ModChatRightBubble" value="-127" />
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">altcr</string>
+    <int name="main_text" value="15" />
+    <boolean name="Img_quickcamhold" value="true" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="statuschat" value="false" />
+    <int name="ModChatGStatusB" value="-503316481" />
+    <int name="square_photo_ratio_picker" value="10" />
+    <int name="ModChatTextColor" value="-1" />
+    <int name="ModDarkConPickColor" value="-16252820" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModConDarkColor" value="-16252820" />
+    <int name="ModChatBtnColor" value="-1" />
+    <int name="ModlastseenColor" value="-6225920" />
+    <int name="ModFabNormalColor" value="-15753896" />
+    <int name="ModChatGStatusT" value="-16777216" />
+    <int name="ModConTextColor" value="-1" />
+    <boolean name="Img_highres_btn" value="true" />
+    <int name="ModChatEntry" value="-1979645912" />
+    <int name="ModChatBubbleText" value="-2683" />
+    <int name="ModChatColor" value="-16252820" />
+    <int name="ModChatBubbleTextLeft" value="-15532288" />
+    <boolean name="Img_share_limit" value="true" />
+    <boolean name="AttBt" value="true" />
+    <boolean name="Audio_sensor" value="true" />
+</map>

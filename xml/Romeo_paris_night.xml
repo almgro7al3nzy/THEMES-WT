@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="true" />
+    <int name="ModChatLeftBubble" value="817543866" />
+    <int name="BGColor" value="817543866" />
+    <boolean name="yo_hideinfo" value="true" />
+    <string name="tick_style">grw</string>
+    <int name="ModChatDarkColor" value="-16365747" />
+    <int name="ModChatGStatusB" value="3611501" />
+    <int name="ModFabNormalColor" value="-16365747" />
+    <string name="yo_nicons">8</string>
+    <boolean name="my_name" value="true" />
+    <int name="ModConColor" value="-16365747" />
+    <int name="ModChatRightBubble" value="817543866" />
+    <int name="ConvoBack" value="-13165715" />
+    <int name="ModChatTextColor" value="-1" />
+    <string name="ConvoEntry">8</string>
+    <string name="font">ProductSans</string>
+    <boolean name="onlinechat" value="false" />
+    <int name="ModChatBubbleText" value="-1" />
+    <int name="ModlastseenColor" value="-14562600" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="text_size_pick" value="14" />
+    <int name="date_left_color" value="-1184275" />
+    <boolean name="Conv_call_btn" value="false" />
+    <int name="ModChaSendColor" value="-16365747" />
+    <string name="bubble_style">wapaper</string>
+    <int name="main_text" value="14" />
+    <int name="ModOnlineColor" value="-16056505" />
+    <int name="HomeBarText" value="-1" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <int name="date_right_color" value="-1118482" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="statuschat" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatEntry" value="-1" />
+    <int name="ModConBackColor" value="-16761791" />
+    <int name="ModConDarkColor" value="-16365747" />
+    <boolean name="TxtSelect" value="true" />
+    <string name="chats_play_contact_online_tone">content://media/internal/audio/media/28</string>
+    <int name="ModConTextColor" value="-1" />
+    <int name="ModChatGStatusT" value="-398139" />
+    <string name="convostyle">3</string>
+    <boolean name="Img_highres_btn" value="false" />
+    <int name="ModFabPressedColor" value="-16365747" />
+    <int name="ModChatEmojiColor" value="-1" />
+    <string name="HomeEntry">yousef</string>
+    <int name="ModDarkConPickColor" value="-16365747" />
+    <int name="ModConPickColor" value="-16365747" />
+    <int name="ModChatBtnColor" value="-1" />
+    <boolean name="Img_share_limit" value="true" />
+    <int name="ModConPickBackColor" value="-16761791" />
+    <int name="ModChatColor" value="-16365747" />
+    <boolean name="AttBt" value="false" />
+</map>

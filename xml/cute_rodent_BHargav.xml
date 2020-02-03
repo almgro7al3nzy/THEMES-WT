@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="true" />
+    <int name="BGColor" value="2142705953" />
+    <boolean name="yo_hideinfo" value="true" />
+    <string name="tick_style">flatcircles</string>
+    <int name="ModChatTextColor" value="-15139072" />
+    <boolean name="my_name" value="true" />
+    <int name="ModFabPressedColor" value="-1179183327" />
+    <int name="ModConPickColor" value="-4777439" />
+    <int name="ModDarkConPickColor" value="-4777439" />
+    <int name="ModConColor" value="-4777439" />
+    <int name="ModConDarkColor" value="-4777439" />
+    <int name="ModChatBtnColor" value="-16711919" />
+    <int name="ModlastseenColor" value="-15273921" />
+    <string name="ConvoEntry">5</string>
+    <boolean name="my_statusd" value="true" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModFabNormalColor" value="-4777439" />
+    <int name="ModOnlineColor" value="-8458218" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="ModChatGStatusT" value="-197122" />
+    <int name="ModConTextColor" value="-4980736" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="15" />
+    <int name="ModChatDarkColor" value="-4777439" />
+    <int name="ModChatLeftBubble" value="-1320850176" />
+    <int name="ModChatRightBubble" value="-65524" />
+    <int name="ModChatEntry" value="2058819873" />
+    <string name="HomeEntry">yowa</string>
+    <boolean name="Conv_call_btn" value="false" />
+    <string name="bubble_style">altcr</string>
+    <int name="main_text" value="15" />
+    <int name="ModChatBubbleText" value="-1" />
+    <int name="ModChatColor" value="-4777439" />
+    <int name="ModChatBubbleTextLeft" value="-65524" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="AttBt" value="true" />
+    <int name="square_photo_ratio_picker" value="10" />
+</map>

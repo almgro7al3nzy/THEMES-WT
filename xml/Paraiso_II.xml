@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="-10410689" />
+    <boolean name="Hide_div" value="true" />
+    <int name="ModChatLeftBubble" value="-1335979" />
+    <int name="BGColor" value="16777215" />
+    <boolean name="yo_hideinfo" value="true" />
+    <boolean name="always_online" value="false" />
+    <string name="tick_style">newwaca</string>
+    <int name="ModChatDarkColor" value="-15070196" />
+    <int name="ModChatGStatusB" value="-15070196" />
+    <int name="ModConBackColor" value="-65794" />
+    <int name="ModFabNormalColor" value="-15070196" />
+    <int name="ModChaSendBKColor" value="-263183" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-15070196" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModConColor" value="-15070196" />
+    <boolean name="Pop_Heds" value="true" />
+    <int name="ModChatRightBubble" value="-3845802" />
+    <int name="ModChatTextColor" value="-1" />
+    <string name="ConvoEntry">4</string>
+    <string name="font">ProductSans</string>
+    <int name="ModChatBubbleText" value="-65794" />
+    <int name="ModlastseenColor" value="-7130539" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModChatGStatusT" value="-1" />
+    <int name="ModConTextColor" value="-1741994" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="12" />
+    <int name="date_left_color" value="-14350834" />
+    <int name="ModChatEmojiColor" value="-1" />
+    <int name="ModDarkConPickColor" value="-15070196" />
+    <string name="HomeEntry">wamod</string>
+    <int name="ModChaSendColor" value="-1" />
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">bbm</string>
+    <int name="main_text" value="12" />
+    <int name="ModConPickColor" value="-15070196" />
+    <int name="ModOnlineColor" value="-7130539" />
+    <int name="ModChatBubbleTextLeft" value="-14350834" />
+    <int name="HomeBarText" value="-1" />
+    <int name="ModChatBtnColor" value="-1" />
+    <int name="date_right_color" value="-65794" />
+    <int name="ModConPickBackColor" value="-65794" />
+    <boolean name="hide_fab" value="true" />
+    <int name="ModChatColor" value="-15070196" />
+    <boolean name="AttBt" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

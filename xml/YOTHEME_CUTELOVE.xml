@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="-651547085" />
+    <int name="ModChatLeftBubble" value="-391048552" />
+    <int name="BGColor" value="-1087761373" />
+    <boolean name="yo_hideinfo" value="false" />
+    <int name="ModChatDarkColor" value="-14019549" />
+    <string name="tick_style">circles</string>
+    <int name="ModFabNormalColor" value="-14019549" />
+    <int name="ModConBackColor" value="-3005550" />
+    <int name="ModChaSendBKColor" value="-4249046" />
+    <int name="ModConDarkColor" value="-14019549" />
+    <int name="ModConColor" value="-14019549" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModChatRightBubble" value="-366341085" />
+    <int name="ModChatTextColor" value="-1052689" />
+    <string name="ConvoEntry">0</string>
+    <string name="font">Raleway</string>
+    <int name="ModChatBubbleText" value="-1381654" />
+    <int name="ModlastseenColor" value="-425101" />
+    <int name="ModConTextColor" value="-14019549" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="15" />
+    <int name="date_left_color" value="-735039697" />
+    <int name="ModChatEmojiColor" value="-16777216" />
+    <int name="ModDarkConPickColor" value="-14019549" />
+    <int name="ModChaSendColor" value="-1365205" />
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">yousef</string>
+    <int name="main_text" value="16" />
+    <int name="ModOnlineColor" value="-4808846" />
+    <int name="ModConPickColor" value="-14019549" />
+    <int name="HomeBarText" value="-1" />
+    <int name="ModChatBubbleTextLeft" value="-16316665" />
+    <int name="ModChatBtnColor" value="-425101" />
+    <int name="date_right_color" value="-624770366" />
+    <int name="ModConPickBackColor" value="-3005550" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-14019549" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

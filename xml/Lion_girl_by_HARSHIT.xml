@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="main_text" value="15" />
+    <int name="ModConColor" value="-687505" />
+    <boolean name="TxtSelect" value="true" />
+    <boolean name="Hide_div" value="true" />
+    <string name="ConvoEntry">1</string>
+    <int name="ModConPickColor" value="-687505" />
+    <int name="ModChatGStatusB" value="1613770800" />
+    <int name="ModChatLeftBubble" value="-671061362" />
+    <int name="ModConTextColor" value="-687505" />
+    <int name="ModFabPressedColor" value="-756388" />
+    <int name="ModFabBgColor" value="-1845512535" />
+    <int name="ModChatRightBubble" value="-620732550" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <int name="text_size_pick" value="15" />
+    <string name="yo_nicons">12</string>
+    <int name="ModChatColor" value="-687505" />
+    <boolean name="statuschat" value="true" />
+    <int name="ModChatTextColor" value="-16762787" />
+    <int name="ModConPickBackColor" value="-723724" />
+    <boolean name="always_online" value="false" />
+    <boolean name="Audio_sensor" value="true" />
+    <int name="ModChatBubbleText" value="-1" />
+    <string name="bubble_style">bryed</string>
+    <boolean name="AttBt" value="false" />
+    <int name="ModConDarkColor" value="-687505" />
+    <boolean name="Audio_ears" value="true" />
+    <int name="ModChatBtnColor" value="-687505" />
+    <string name="HomeEntry">waca</string>
+    <string name="convostyle">3</string>
+    <int name="ModChatDarkColor" value="-687505" />
+    <boolean name="start_bl" value="true" />
+    <int name="ModConBackColor" value="-723724" />
+    <int name="BGColor" value="16777215" />
+    <int name="ModDarkConPickColor" value="-687505" />
+    <string name="tick_style">nh</string>
+    <int name="ModFabNormalColor" value="-687505" />
+</map>

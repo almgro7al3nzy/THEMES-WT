@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="-10380906" />
+    <boolean name="Hide_div" value="false" />
+
+    <int name="ModChatLeftBubble" value="-791882285" />
+    <int name="BGColor" value="6396310" />
+    <boolean name="yo_hideinfo" value="false" />
+    <string name="tick_style">jessy</string>
+    <int name="ModConBackColor" value="-15969397" />
+    <int name="ModFabNormalColor" value="-10380906" />
+    <int name="ModChaSendBKColor" value="-2372183" />
+    <boolean name="my_name" value="true" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModConColor" value="-10380906" />
+    <int name="ModChatRightBubble" value="-1189835601" />
+    <int name="ModChatTextColor" value="-15976084" />
+    <boolean name="enable_old" value="false" />
+    <string name="ConvoEntry">9</string>
+    <int name="ModChatBubbleText" value="-1060166" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModConTextColor" value="-864325" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="convostyle">0</string>
+    <int name="text_size_pick" value="16" />
+    <int name="ModFabPressedColor" value="-10380906" />
+    <int name="date_left_color" value="-15887432" />
+    <int name="ModChatEmojiColor" value="-2372183" />
+    <string name="HomeEntry">yousef</string>
+    <boolean name="Conv_call_btn" value="false" />
+    <int name="ModChaSendColor" value="-2372183" />
+    <string name="bubble_style">fold</string>
+    <int name="main_text" value="16" />
+    <int name="ModConPickColor" value="-10380906" />
+    <int name="HomeBarText" value="-1648712" />
+    <int name="ModChatBubbleTextLeft" value="-15887432" />
+    <int name="ModChatBtnColor" value="-2372183" />
+    <int name="date_right_color" value="-1060166" />
+    <int name="ModConPickBackColor" value="-15969397" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-10380906" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

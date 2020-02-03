@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModConDarkColor" value="-16728876" />
+    <int name="ModConPickColor" value="-16728876" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="ModChatDarkColor" value="-16728876" />
+    <int name="ModConColor" value="-16728876" />
+    <int name="ModDarkConPickColor" value="-16728876" />
+    <int name="text_size_pick" value="14" />
+    <int name="ModChatColor" value="-16728876" />
+    <int name="ModFabNormalColor" value="-16728876" />
+    <int name="ModChatRightBubble" value="-1" />
+</map>

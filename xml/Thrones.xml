@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatLeftBubble" value="-1533440" />
+    <boolean name="yo_hideinfo" value="true" />
+    <string name="tick_style">newwaca</string>
+    <int name="ModChatDarkColor" value="-1533440" />
+    <int name="ModFabNormalColor" value="-1533440" />
+    <int name="ModConBackColor" value="-1" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-1533440" />
+    <int name="ModConColor" value="-1533440" />
+    <boolean name="TxtSelect" value="true" />
+    <boolean name="Pop_Heds" value="false" />
+    <int name="ModChatRightBubble" value="-592138" />
+    <int name="ModChatTextColor" value="-1533440" />
+    <string name="font">Rekaa(Arabic)</string>
+    <boolean name="enable_old" value="true" />
+    <string name="ConvoEntry">8</string>
+    <int name="ModChatBubbleText" value="-1533440" />
+    <int name="ModConTextColor" value="-1533440" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="convostyle">1</string>
+    <int name="text_size_pick" value="14" />
+    <boolean name="Up_size_limit" value="false" />
+    <int name="date_left_color" value="-1" />
+    <int name="ModChatEmojiColor" value="-1533440" />
+    <string name="HomeEntry">yowa</string>
+    <int name="ModDarkConPickColor" value="-1533440" />
+    <boolean name="Conv_call_btn" value="true" />
+    <int name="ModChaSendColor" value="-1533440" />
+    <string name="bubble_style">ilkhang</string>
+    <int name="main_text" value="15" />
+    <int name="ModConPickColor" value="-1533440" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <int name="ModChatBtnColor" value="-1533440" />
+    <int name="date_right_color" value="-1533440" />
+    <int name="ModConPickBackColor" value="-1" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-1533440" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

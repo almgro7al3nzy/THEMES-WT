@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="true" />
+    <int name="ModChatLeftBubble" value="-466603985" />
+    <int name="BGColor" value="-1070583761" />
+    <boolean name="yo_hideinfo" value="true" />
+    <boolean name="custom_wall" value="false" />
+    <string name="tick_style">hd</string>
+    <int name="ModChatDarkColor" value="-13619153" />
+    <int name="ModChatGStatusB" value="2064452877" />
+    <int name="ModFabNormalColor" value="-13619153" />
+    <int name="architModConPickBackColor" value="-526345" />
+    <boolean name="my_name" value="false" />
+    <int name="architModFabPressedColor" value="-894423" />
+    <int name="architModConPickColor" value="-15753896" />
+    <int name="ModConColor" value="-13619153" />
+    <int name="architModConColor" value="-15753896" />
+    <boolean name="Pop_Heds" value="false" />
+    <int name="ModChatRightBubble" value="-408717312" />
+    <int name="ConvoBack" value="-1250068" />
+    <int name="ModChatTextColor" value="-16777216" />
+    <boolean name="chats_show_contact_online_toast_check" value="true" />
+    <string name="ConvoEntry">1</string>
+    <boolean name="my_statusd" value="false" />
+    <string name="font">Default</string>
+    <boolean name="onlinechat" value="false" />
+    <int name="ModChatBubbleText" value="-83425529" />
+    <int name="ModlastseenColor" value="-10576972" />
+    <boolean name="PicProf" value="true" />
+    <boolean name="hide_action_l" value="true" />
+    <int name="architModFabBgColor" value="16777215" />
+    <int name="architModOnlineColor" value="-15753896" />
+    <int name="text_size_pick" value="15" />
+    <int name="architModConBackColor" value="-526345" />
+    <int name="architModChatDarkColor" value="-15559594" />
+    <int name="date_left_color" value="-991368984" />
+    <int name="architModChatRightBubble" value="-921103" />
+    <boolean name="Conv_call_btn" value="true" />
+    <int name="ModChaSendColor" value="-5033165" />
+    <string name="bubble_style">rounded</string>
+    <int name="main_text" value="16" />
+    <int name="ModOnlineColor" value="-8474994" />
+    <int name="HomeBarText" value="-1052689" />
+    <int name="ModChatBubbleTextLeft" value="-134875659" />
+    <int name="date_right_color" value="-870375906" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="hide_fab" value="false" />
+    <boolean name="statuschat" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatEntry" value="-408717312" />
+    <int name="ModFabBgColor" value="16777215" />
+    <int name="ModConBackColor" value="-6193644" />
+    <int name="architModChatTextColor" value="-13619152" />
+    <int name="ModConDarkColor" value="-13619153" />
+    <int name="architModDarkConPickColor" value="-15559594" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="architModConDarkColor" value="-15559594" />
+    <int name="architModChatMicColor" value="-592138" />
+    <boolean name="enable_old" value="false" />
+    <int name="architModFabNormalColor" value="-43230" />
+    <int name="ModChatGStatusT" value="-1579033" />
+    <int name="ModConTextColor" value="-16777216" />
+    <int name="HomeCounterBK" value="-13224394" />
+    <int name="architModConTextColor" value="-15461356" />
+    <string name="convostyle">3</string>
+    <int name="ModFabPressedColor" value="-7156288" />
+    <int name="architModChatEntry" value="-789517" />
+    <int name="ModChatEmojiColor" value="-11053482" />
+    <int name="ModDarkConPickColor" value="-13619153" />
+    <string name="HomeEntry">wamod</string>
+    <boolean name="hide_action_b" value="false" />
+    <int name="ModConPickColor" value="-13619153" />
+    <int name="architModChatColor" value="-15753896" />
+    <boolean name="elapsed_time" value="false" />
+    <int name="ModChatBtnColor" value="-9218554" />
+    <int name="ModConPickBackColor" value="-6193644" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-13619153" />
+</map>
