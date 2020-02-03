@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatLeftBubble" value="-1123371" />
+    <int name="BGColor" value="-1" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="custom_wall" value="false" />
+    <string name="tick_style">feet</string>
+    <int name="ModChatDarkColor" value="-3938593" />
+    <int name="ModChatGStatusB" value="-3282470" />
+    <int name="ModFabNormalColor" value="-3951413" />
+    <string name="yo_nicons">0</string>
+    <int name="ModChaSendBKColor" value="-3938593" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConColor" value="-3938593" />
+    <int name="pic_chat_size_picker" value="100" />
+    <int name="ModChatRightBubble" value="-3951413" />
+    <int name="ConvoBack" value="-3355444" />
+    <int name="ModChatTextColor" value="-1993804" />
+    <boolean name="chats_show_contact_online_toast_check" value="true" />
+    <string name="ConvoEntry">14</string>
+    <string name="font">Capture_it</string>
+    <boolean name="my_statusd" value="true" />
+    <int name="ModChatBubbleText" value="-10137788" />
+    <boolean name="onlinechat" value="false" />
+    <int name="ModlastseenColor" value="-4414516" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="chat_contactpic" value="true" />
+    <int name="participant_name_color_picker" value="-7117752" />
+    <int name="emojipopup_header" value="-943179" />
+    <boolean name="hide_action_l" value="false" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="text_size_pick" value="22" />
+    <boolean name="hide_action_m" value="false" />
+    <int name="date_left_color" value="-133895" />
+    <int name="ModChaSendColor" value="-2645833" />
+    <boolean name="Conv_call_btn" value="false" />
+    <string name="bubble_style">telegram</string>
+    <int name="main_text" value="22" />
+    <int name="ModOnlineColor" value="-1993804" />
+    <int name="ModChatBubbleTextLeft" value="-10137788" />
+    <int name="HomeBarText" value="-507685751" />
+    <int name="statuses_bar_bg_picker" value="-3951413" />
+    <int name="date_right_color" value="-1" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="statuschat" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatEntry" value="-3951413" />
+    <boolean name="Archv_chats" value="false" />
+    <int name="pagetitle_picker" value="-3951413" />
+    <int name="ModDarkConPickColorNav" value="-3938593" />
+    <int name="ModFabBgColor" value="-504855626" />
+    <int name="ModConBackColor" value="-1123371" />
+    <boolean name="chat_mypic" value="true" />
+    <boolean name="group_mypic" value="true" />
+    <int name="ModConDarkColor" value="-3938593" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="statuses_bar_text_picker" value="-133895" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="enable_old" value="false" />
+    <int name="ModChatGStatusT" value="-10137788" />
+    <int name="ModConTextColor" value="-5395556" />
+    <int name="ModChatBubbleHyperlinks" value="-133895" />
+    <int name="date_bubble_color_picker" value="-3951413" />
+    <int name="HomeCounterBK" value="-504689797" />
+    <string name="convostyle">0</string>
+    <boolean name="group_participants_pic" value="true" />
+    <boolean name="hide_action_a" value="false" />
+    <int name="ModChatEmojiColor" value="-3938593" />
+    <string name="HomeEntry">telegram</string>
+    <int name="ModDarkConPickColor" value="-3938593" />
+    <boolean name="hide_action_b" value="false" />
+    <int name="ModConPickColor" value="-3951413" />
+    <boolean name="elapsed_time" value="false" />
+    <int name="ModChatBtnColor" value="-3938593" />
+    <int name="ModConPickBackColor" value="-1123371" />
+    <int name="row_resizer" value="0" />
+    <int name="ModChatColor" value="-3951413" />
+    <boolean name="AttBt" value="true" />
+</map>

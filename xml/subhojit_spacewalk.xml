@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="true" />
+    <int name="ModChatLeftBubble" value="786029530" />
+    <int name="BGColor" value="4872039" />
+    <int name="ModChatDarkColor" value="-13224394" />
+    <string name="tick_style">treble</string>
+    <int name="ModChatGStatusB" value="-3749689" />
+    <int name="ModFabNormalColor" value="-13224394" />
+    <boolean name="extended_notifi" value="true" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConColor" value="-13224394" />
+    <boolean name="Pop_Heds" value="true" />
+    <int name="ModChatRightBubble" value="786029530" />
+    <int name="ModChatTextColor" value="-65537" />
+    <string name="ConvoEntry">0</string>
+    <int name="ModChatBubbleText" value="-1814438950" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModlastseenColor" value="-7500403" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="text_size_pick" value="15" />
+    <int name="date_left_color" value="-9145485" />
+    <int name="ModChaSendColor" value="-1814438950" />
+    <boolean name="Conv_call_btn" value="false" />
+    <string name="bubble_style">ilkhang</string>
+    <int name="main_text" value="15" />
+    <int name="ModOnlineColor" value="-7303024" />
+    <int name="ModChatBubbleTextLeft" value="-1814438950" />
+    <int name="HomeBarText" value="-3749689" />
+    <int name="date_right_color" value="-8553091" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="statuschat" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatEntry" value="4872039" />
+    <boolean name="Archv_chats" value="true" />
+    <int name="ModConBackColor" value="-3749689" />
+    <int name="ModConDarkColor" value="-13224394" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModConTextColor" value="-12761248" />
+    <int name="ModChatGStatusT" value="-13224394" />
+    <string name="convostyle">3</string>
+    <int name="ModFabPressedColor" value="-11905177" />
+    <int name="ModChatEmojiColor" value="-1814438950" />
+    <int name="ModDarkConPickColor" value="-13224394" />
+    <string name="HomeEntry">telegram</string>
+    <int name="ModConPickColor" value="-13224394" />
+    <int name="ModChatBtnColor" value="-1814438950" />
+    <int name="ModConPickBackColor" value="-3749689" />
+    <boolean name="AttBt" value="false" />
+    <int name="ModChatColor" value="-13224394" />
+</map>

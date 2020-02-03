@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatLeftBubble" value="-590860" />
+    <int name="BGColor" value="16382450" />
+    <boolean name="yo_hideinfo" value="false" />
+    <int name="ModChatDarkColor" value="-3852742" />
+    <string name="tick_style">altcrayon</string>
+    <int name="ModChatGStatusB" value="-703412" />
+    <int name="ModFabNormalColor" value="-703412" />
+    <int name="ModChaSendBKColor" value="-831156" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-3852742" />
+    <int name="ModConColor" value="-703412" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModChatRightBubble" value="-590860" />
+    <string name="ConvoEntry">11</string>
+    <int name="ModChatBubbleText" value="-831156" />
+    <int name="ModlastseenColor" value="-1890237" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModConTextColor" value="-1890237" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="16" />
+    <int name="ModFabPressedColor" value="-703412" />
+    <int name="date_left_color" value="-831156" />
+    <int name="ModChatEmojiColor" value="-1298108" />
+    <string name="HomeEntry">wamod</string>
+    <int name="ModDarkConPickColor" value="-3852742" />
+    <boolean name="Conv_call_btn" value="false" />
+    <int name="ModChaSendColor" value="-1298108" />
+    <string name="bubble_style">hang</string>
+    <int name="main_text" value="16" />
+    <int name="ModOnlineColor" value="-1890237" />
+    <int name="ModConPickColor" value="-703412" />
+    <int name="ModChatBubbleTextLeft" value="-831156" />
+    <int name="ModChatBtnColor" value="-1298108" />
+    <int name="date_right_color" value="-831156" />
+    <int name="ModChatColor" value="-703412" />
+    <boolean name="AttBt" value="true" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

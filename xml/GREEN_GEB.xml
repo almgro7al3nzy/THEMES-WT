@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="-6765916" />
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatLeftBubble" value="-4995669" />
+    <int name="BGColor" value="16777215" />
+    <boolean name="yo_hideinfo" value="false" />
+    <int name="ModChatDarkColor" value="-6765916" />
+    <string name="tick_style">face</string>
+    <int name="ModFabNormalColor" value="-1037476539" />
+    <int name="ModChaSendBKColor" value="-1023410177" />
+    <boolean name="my_name" value="false" />
+    <int name="ModConDarkColor" value="-6765916" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModConColor" value="-1037476539" />
+    <int name="ModChatRightBubble" value="-6765916" />
+    <string name="ConvoEntry">12</string>
+    <boolean name="PicProf" value="false" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="convostyle">0</string>
+    <int name="text_size_pick" value="16" />
+    <string name="HomeEntry">yousef</string>
+    <int name="ModDarkConPickColor" value="-6765916" />
+    <boolean name="Conv_call_btn" value="false" />
+    <int name="ModChaSendColor" value="-1037476539" />
+    <string name="bubble_style">doodlehang</string>
+    <int name="main_text" value="16" />
+    <int name="ModConPickColor" value="-1037476539" />
+    <int name="ModChatBubbleTextLeft" value="-16777216" />
+    <int name="ModChatBtnColor" value="-1037476539" />
+    <int name="ModChatColor" value="-1037476539" />
+    <boolean name="AttBt" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

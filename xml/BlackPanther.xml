@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="0" />
+    <int name="ModChatLeftBubble" value="-16776441" />
+    <int name="BGColor" value="-875183" />
+    <string name="tick_style">ios</string>
+    <int name="ModChatDarkColor" value="-14933978" />
+    <int name="ModChatGStatusB" value="-11841965" />
+    <int name="ModFabNormalColor" value="-15065307" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-14933978" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModConColor" value="-15065307" />
+    <int name="ModChatRightBubble" value="-16776441" />
+    <int name="ModChatTextColor" value="-1" />
+    <string name="ConvoEntry">5</string>
+    <string name="font">Bariol</string>
+    <int name="ModChatBubbleText" value="-7960178" />
+    <int name="ModlastseenColor" value="-15065563" />
+    <int name="ModChatGStatusT" value="-4999237" />
+    <int name="text_size_pick" value="15" />
+    <int name="ModFabPressedColor" value="16777215" />
+    <int name="date_left_color" value="-7960178" />
+    <string name="codepa">MDY2MQ==</string>
+    <int name="ModDarkConPickColor" value="-14933978" />
+    <string name="HomeEntry">yowa</string>
+    <string name="bubble_style">doodlehang</string>
+    <int name="main_text" value="15" />
+    <int name="ModOnlineColor" value="-15065563" />
+    <int name="ModConPickColor" value="-15065307" />
+    <int name="ModChatBubbleTextLeft" value="-11841965" />
+    <int name="HomeBarText" value="-722180" />
+    <int name="ModChatBtnColor" value="-920072" />
+    <int name="date_right_color" value="-11841965" />
+    <boolean name="hide_fab" value="false" />
+    <int name="ModChatColor" value="-15065307" />
+    <boolean name="AttBt" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

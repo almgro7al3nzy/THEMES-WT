@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatLeftBubble" value="-1" />
+    <int name="BGColor" value="-875183" />
+    <int name="ModChatDarkColor" value="-14326718" />
+    <string name="tick_style">joaquins</string>
+    <int name="ModChatGStatusB" value="-668854" />
+    <int name="ModFabNormalColor" value="-538804" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-14326718" />
+    <int name="ModConColor" value="-14326718" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModChatRightBubble" value="-1" />
+    <int name="ModChatTextColor" value="-16738943" />
+    <string name="ConvoEntry">5</string>
+    <int name="ModChatBubbleText" value="-16679314" />
+    <int name="ModlastseenColor" value="-15065563" />
+    <int name="ModChatGStatusT" value="-12627624" />
+    <int name="text_size_pick" value="15" />
+    <int name="ModFabPressedColor" value="-538804" />
+    <int name="date_left_color" value="-13157060" />
+    <string name="HomeEntry">yowa</string>
+    <int name="ModDarkConPickColor" value="-14326718" />
+    <string name="bubble_style">doodlehang</string>
+    <int name="main_text" value="15" />
+    <int name="ModConPickColor" value="-14326718" />
+    <int name="ModOnlineColor" value="-15065563" />
+    <int name="HomeBarText" value="-1" />
+    <int name="ModChatBubbleTextLeft" value="-16679314" />
+    <int name="ModChatBtnColor" value="-16610692" />
+    <int name="date_right_color" value="-13157060" />
+    <boolean name="hide_fab" value="false" />
+    <boolean name="AttBt" value="false" />
+    <int name="ModChatColor" value="-14326718" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

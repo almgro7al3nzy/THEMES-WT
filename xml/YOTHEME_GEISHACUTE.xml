@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="-563779742" />
+    <int name="ModChatLeftBubble" value="-617862362" />
+    <int name="BGColor" value="-1254997957" />
+    <boolean name="yo_hideinfo" value="false" />
+    <string name="tick_style">circles</string>
+    <int name="ModChatDarkColor" value="-14208209" />
+    <int name="ModConBackColor" value="-5721165" />
+    <int name="ModFabNormalColor" value="-14208209" />
+    <int name="ModChaSendBKColor" value="-649610028" />
+    <int name="ModConDarkColor" value="-14208209" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModConColor" value="-14208209" />
+    <int name="ModChatRightBubble" value="-556068517" />
+    <int name="ModChatTextColor" value="-1" />
+    <string name="font">Default</string>
+    <string name="ConvoEntry">0</string>
+    <int name="ModChatBubbleText" value="-1" />
+    <int name="ModlastseenColor" value="-1810558" />
+    <boolean name="PicProf" value="true" />
+    <int name="ModConTextColor" value="-15527149" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="15" />
+    <int name="date_left_color" value="-1092690210" />
+    <int name="ModChatEmojiColor" value="-5721165" />
+    <int name="ModDarkConPickColor" value="-14208209" />
+    <boolean name="Conv_call_btn" value="true" />
+    <int name="ModChaSendColor" value="-1810558" />
+    <string name="bubble_style">yousef</string>
+    <int name="main_text" value="15" />
+    <int name="ModConPickColor" value="-14208209" />
+    <int name="ModOnlineColor" value="-5303227" />
+    <int name="ModChatBubbleTextLeft" value="-855310" />
+    <int name="HomeBarText" value="-1118482" />
+    <int name="ModChatBtnColor" value="-5303227" />
+    <int name="date_right_color" value="-1075518236" />
+    <int name="ModConPickBackColor" value="-5721165" />
+    <int name="ModChatColor" value="-14208209" />
+    <boolean name="AttBt" value="true" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

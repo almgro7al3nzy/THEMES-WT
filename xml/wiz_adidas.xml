@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="enable_old" value="false" />
+    <int name="HomeCounterBK" value="-16729089" />
+    <int name="date_right_color" value="-1" />
+    <int name="ModChatDarkColor" value="-16294316" />
+    <int name="ModChatBtnColor" value="-14915118" />
+    <string name="ConvoEntry">8</string>
+    <int name="ModConTextColor" value="-1" />
+    <boolean name="hide_action_m" value="false" />
+    <boolean name="hide_action_l" value="false" />
+    <int name="ModChatEmojiColor" value="-14915118" />
+    <int name="ModConPickBackColor" value="-14915118" />
+    <int name="ModConPickColor" value="-197380" />
+    <int name="ModConColor" value="-197380" />
+    <int name="row_resizer" value="0" />
+    <boolean name="hide_fab" value="true" />
+    <string name="yo_nicons">12</string>
+    <int name="ModlastseenColor" value="-1" />
+    <int name="ModChatTextColor" value="-14063930" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <int name="ModChatColor" value="-197380" />
+    <int name="ModConBackColor" value="-14915118" />
+    <int name="ModOnlineColor" value="-1" />
+    <string name="font">Passing_Notes</string>
+    <int name="ModChaSendColor" value="-14915118" />
+    <int name="HomeBarText" value="-14915118" />
+    <string name="bubble_style">twitter</string>
+    <int name="ModConDarkColor" value="-16294316" />
+    <int name="ModChatLeftBubble" value="-14915118" />
+    <int name="date_left_color" value="-1" />
+    <int name="ModFabNormalColor" value="-197380" />
+    <int name="ModChatRightBubble" value="-14915118" />
+    <string name="convostyle">1</string>
+    <string name="HomeEntry">telegram</string>
+    <boolean name="hide_action_b" value="false" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="hide_action_a" value="false" />
+    <int name="ModChatBubbleText" value="-1" />
+    <boolean name="disable_newUI" value="false" />
+    <string name="tick_style">circles</string>
+</map>

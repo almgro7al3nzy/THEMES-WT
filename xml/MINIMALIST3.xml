@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="date_left_color" value="-1" />
+    <int name="ModChatBubbleText" value="-16777216" />
+    <boolean name="ModChatBubbleText_Gactive" value="false" />
+    <boolean name="ModDarkConPickColor_Gactive" value="false" />
+    <boolean name="statuschat" value="true" />
+    <boolean name="my_statusd" value="false" />
+    <int name="ModFabPressedColor" value="-16777216" />
+    <int name="statuses_bar_bg_picker" value="-34870293" />
+    <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
+    <int name="ModFabNormalColor" value="-16777216" />
+    <boolean name="hide_action_l" value="true" />
+    <boolean name="hide_action_m" value="true" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="ModFabTextColor_Gactive" value="false" />
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatColor" value="-16777216" />
+    <int name="tabadgeBKColor" value="-16777216" />
+    <boolean name="tabadgeTextColor_Gactive" value="false" />
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="HomeCounterBK_Gactive" value="false" />
+    <boolean name="home_imgBK" value="false" />
+    <boolean name="tabindicator_Gactive" value="false" />
+    <string name="yo_nicons">0</string>
+    <int name="ModConDarkColor" value="-16429756" />
+    <int name="date_right_color" value="-15461613" />
+    <boolean name="NameProf" value="false" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <int name="ModChatRightBubble" value="-1" />
+    <int name="row_resizer" value="196" />
+    <int name="ModConPickColor" value="-16777216" />
+    <boolean name="date_right_color_Gactive" value="false" />
+    <boolean name="onlinechat" value="true" />
+    <boolean name="enable_old" value="false" />
+    <int name="ModChatLeftBubble" value="-16777216" />
+    <int name="tabadgeTextColor" value="-1" />
+    <string name="ConvoEntry">22</string>
+    <boolean name="start_bl" value="false" />
+    <int name="ModConColor" value="-16777216" />
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <string name="tick_style">cutebug</string>
+    <int name="HomeCounterBK" value="-16689030" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <boolean name="hide_fab" value="true" />
+    <int name="ModDarkConPickColor" value="-16777216" />
+    <boolean name="date_left_color_Gactive" value="false" />
+    <int name="tabindicator" value="-34870293" />
+    <boolean name="Archv_chats" value="false" />
+    <int name="ModFabTextColor" value="-34870293" />
+    <boolean name="ModConBackColor_Gactive" value="false" />
+    <int name="ModConTextColor" value="-34870293" />
+    <boolean name="ModConTextColor_Gactive" value="false" />
+    <boolean name="my_name" value="false" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModConBackColor" value="-16777216" />
+    <boolean name="custom_wall" value="false" />
+    <boolean name="ModChatBubbleTextLeft_Gactive" value="false" />
+    <int name="ModChatDarkColor" value="-16429756" />
+    <boolean name="elapsed_time" value="false" />
+    <boolean name="ModOnlineColor_Gactive" value="false" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="ModlastseenColor_Gactive" value="false" />
+    <int name="HomeCounterText" value="-34870293" />
+    <boolean name="ModFabNormalColor_Gactive" value="false" />
+    <boolean name="hide_action_a" value="false" />
+    <boolean name="hide_action_b" value="true" />
+    <boolean name="ModFabPressedColor_Gactive" value="false" />
+    <boolean name="tabadgeBKColor_Gactive" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="statuses_bar_bg_picker_Gactive" value="false" />
+    <string name="bubble_style">bubble2</string>
+    <boolean name="ModChatColor_Gactive" value="false" />
+    <int name="ModChatBtnColor" value="-16777216" />
+    <int name="ModChatBubbleHyperlinks" value="-1" />
+    <boolean name="ModConPickColor_Gactive" value="false" />
+    <string name="HomeEntry">yousef</string>
+    <boolean name="ModChatBubbleHyperlinks_Gactive" value="false" />
+    <int name="ModlastseenColor" value="-16777216" />
+    <boolean name="ModChatLeftBubble_Gactive" value="false" />
+    <int name="ModDarkConPickColorNav" value="-16777216" />
+    <boolean name="AttBt" value="false" />
+    <int name="BGColor" value="-1" />
+    <int name="main_text" value="14" />
+    <boolean name="ModChatRightBubble_Gactive" value="false" />
+    <boolean name="HomeCounterText_Gactive" value="false" />
+    <boolean name="ModConColor_Gactive" value="false" />
+    <int name="text_size_pick" value="10" />
+    <string name="font">Comfortaa</string>
+    <int name="ModOnlineColor" value="-34870293" />
+</map>

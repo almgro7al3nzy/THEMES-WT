@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatLeftBubble" value="-312449" />
+    <int name="BGColor" value="-6250336" />
+    <boolean name="yo_hideinfo" value="false" />
+    <int name="ModChatDarkColor" value="-16711423" />
+    <string name="tick_style">altcrayon</string>
+    <int name="ModChatGStatusB" value="-6381922" />
+    <int name="ModFabNormalColor" value="-16711423" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-16711423" />
+    <int name="ModConColor" value="-16711423" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModChatRightBubble" value="-6381922" />
+    <int name="ModChatTextColor" value="-1" />
+    <string name="ConvoEntry">0</string>
+    <int name="ModChatBubbleText" value="-1" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModlastseenColor" value="-312449" />
+    <int name="ModChatGStatusT" value="-16711423" />
+    <int name="ModConTextColor" value="-312449" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="convostyle">0</string>
+    <int name="text_size_pick" value="16" />
+    <int name="ModFabPressedColor" value="-16711423" />
+    <int name="date_left_color" value="-1" />
+    <int name="ModChatEmojiColor" value="-1" />
+    <string name="HomeEntry">yousef</string>
+    <int name="ModDarkConPickColor" value="-16711423" />
+    <int name="ModChaSendColor" value="-1" />
+    <boolean name="Conv_call_btn" value="false" />
+    <string name="bubble_style">fbm</string>
+    <int name="main_text" value="16" />
+    <int name="ModConPickColor" value="-16711423" />
+    <int name="ModOnlineColor" value="-312449" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <int name="ModChatBtnColor" value="-1" />
+    <int name="date_right_color" value="-1" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-16711423" />
+    <int name="square_photo_ratio_picker" value="8" />
+</map>

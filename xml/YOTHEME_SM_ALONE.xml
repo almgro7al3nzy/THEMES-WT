@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatLeftBubble" value="-338836576" />
+    <int name="BGColor" value="-1018798228" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="custom_wall" value="false" />
+    <int name="quoted_bg_picker" value="-570095595" />
+    <string name="tick_style">hike</string>
+    <int name="ModChatDarkColor" value="-12626591" />
+    <int name="ModChatGStatusB" value="-985705119" />
+    <int name="ModFabNormalColor" value="-12626591" />
+    <string name="yo_nicons">0</string>
+    <int name="ModChaSendBKColor" value="-16668474" />
+    <boolean name="my_name" value="false" />
+    <int name="ModConColor" value="-12626591" />
+    <boolean name="Pop_Heds" value="true" />
+    <int name="ModChatRightBubble" value="-230730399" />
+    <int name="pic_chat_size_picker" value="100" />
+    <int name="ConvoBack" value="-1513240" />
+    <int name="date_divider_color_picker" value="-984065" />
+    <int name="ModChatTextColor" value="-15132391" />
+    <boolean name="my_statusd" value="false" />
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <string name="ConvoEntry">1</string>
+    <string name="font">Raleway</string>
+    <int name="missed_call_bg_picker" value="-266020621" />
+    <int name="ModChatBubbleText" value="-2106419" />
+    <boolean name="onlinechat" value="false" />
+    <boolean name="PicProf" value="true" />
+    <int name="ModlastseenColor" value="-1" />
+    <int name="participant_name_color_picker" value="-16464672" />
+    <int name="emojipopup_header" value="-12626591" />
+    <boolean name="chat_contactpic" value="false" />
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="multiChats" value="false" />
+    <int name="text_size_pick" value="16" />
+    <int name="quoted_name_picker" value="-255393223" />
+    <int name="date_left_color" value="-15389897" />
+    <int name="ModChaSendColor" value="-2413247" />
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">materialized</string>
+    <int name="main_text" value="16" />
+    <int name="ModOnlineColor" value="-15132391" />
+    <int name="ModChatBubbleTextLeft" value="-15389897" />
+    <int name="HomeBarText" value="-3292256" />
+    <int name="emojipopup_icons" value="-338836576" />
+    <int name="date_right_color" value="-1092625461" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="statuschat" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatEntry" value="-405945440" />
+    <int name="missed_call_icon_bg_picker" value="-2872533" />
+    <boolean name="Archv_chats" value="false" />
+    <int name="ModDarkConPickColorNav" value="-12165268" />
+    <int name="ModFabBgColor" value="16777215" />
+    <int name="ModConBackColor" value="-12165268" />
+    <boolean name="group_mypic" value="false" />
+    <boolean name="chat_mypic" value="false" />
+    <int name="quoted_text_picker" value="-526337" />
+    <int name="emojipopup_body" value="-12165268" />
+    <int name="ModConDarkColor" value="-12626591" />
+    <boolean name="TxtSelect" value="true" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="enable_old" value="false" />
+    <int name="ModChatGStatusT" value="-2106419" />
+    <int name="ModConTextColor" value="-1975879" />
+    <int name="ModChatBubbleHyperlinks" value="-13197325" />
+    <int name="date_bubble_color_picker" value="-771092957" />
+    <int name="HomeCounterBK" value="-12626591" />
+    <string name="convostyle">3</string>
+    <int name="chat_icon_forward_picker" value="-15525316" />
+    <boolean name="group_participants_pic" value="false" />
+    <int name="chat_icon_bg_forward_picker" value="-266020621" />
+    <int name="ModFabPressedColor" value="-16668474" />
+    <int name="ModChatEmojiColor" value="-280600724" />
+    <int name="ModDarkConPickColor" value="-12626591" />
+    <string name="HomeEntry">telegram</string>
+    <int name="ModConPickColor" value="-12626591" />
+    <boolean name="elapsed_time" value="false" />
+    <int name="ModChatBtnColor" value="-520093696" />
+    <int name="ModConPickBackColor" value="-12165268" />
+    <int name="ModChatColor" value="-12626591" />
+    <boolean name="AttBt" value="false" />
+    <int name="row_resizer" value="0" />
+</map>

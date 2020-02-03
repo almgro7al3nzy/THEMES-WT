@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="BGColor" value="-16443074" />
+    <boolean name="yo_hideinfo" value="true" />
+    <string name="Language">3</string>
+    <boolean name="Audio_ears" value="true" />
+    <string name="tick_style">oldwaca</string>
+    <boolean name="extended_notifi" value="false" />
+    <int name="ModChatTextColor" value="-16443074" />
+    <boolean name="my_name" value="true" />
+    <int name="ModFabPressedColor" value="-3861644" />
+    <int name="ModConPickColor" value="-16443074" />
+    <int name="ModDarkConPickColor" value="-16575439" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModConColor" value="-16443074" />
+    <boolean name="Pop_Heds" value="true" />
+    <int name="ModConDarkColor" value="-16575439" />
+    <int name="ModChatBtnColor" value="-1" />
+    <int name="ModlastseenColor" value="-16443074" />
+    <string name="ConvoEntry">1</string>
+    <int name="ModFabBgColor" value="-1" />
+    <int name="ModFabNormalColor" value="-2348919" />
+    <int name="ModOnlineColor" value="-16443074" />
+    <string name="convostyle">3</string>
+    <int name="ModConTextColor" value="-16777216" />
+    <int name="text_size_pick" value="15" />
+    <boolean name="Img_highres_btn" value="true" />
+    <int name="ModChatDarkColor" value="-16575439" />
+    <boolean name="Up_size_limit" value="true" />
+    <int name="ModChatLeftBubble" value="-16443074" />
+    <int name="ModChatRightBubble" value="-5632414" />
+    <int name="ModChatEntry" value="-1" />
+    <string name="HomeEntry">wamod</string>
+    <string name="bubble_style">round</string>
+    <int name="main_text" value="15" />
+    <int name="ModChatBubbleText" value="-1" />
+    <int name="ModChatColor" value="-16443074" />
+    <boolean name="Img_quickcamhold" value="true" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <boolean name="Img_share_limit" value="true" />
+    <int name="ModChatGStatusB" value="-16443074" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="true" />
+    <int name="ModChatLeftBubble" value="-13558894" />
+    <int name="BGColor" value="-7335920" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="custom_wall" value="false" />
+    <string name="tick_style">ios</string>
+    <int name="ModChatDarkColor" value="-16315843" />
+    <int name="ModChatGStatusB" value="-16689253" />
+    <int name="ModFabNormalColor" value="-16315843" />
+    <string name="yo_nicons">0</string>
+    <int name="architModConPickBackColor" value="-526345" />
+    <boolean name="my_name" value="false" />
+    <int name="architModFabPressedColor" value="-894423" />
+    <int name="architModConPickColor" value="-15753896" />
+    <int name="ModConColor" value="-16315843" />
+    <int name="architModConColor" value="-15753896" />
+    <boolean name="Pop_Heds" value="false" />
+    <int name="ModChatRightBubble" value="-13558894" />
+    <int name="ConvoBack" value="-1250068" />
+    <int name="ModChatTextColor" value="-772" />
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <string name="ConvoEntry">5</string>
+    <boolean name="my_statusd" value="false" />
+    <string name="font">Roboto-Medium</string>
+    <boolean name="onlinechat" value="false" />
+    <int name="ModChatBubbleText" value="-1" />
+    <int name="ModlastseenColor" value="-16777216" />
+    <boolean name="PicProf" value="false" />
+    <int name="architModFabBgColor" value="16777215" />
+    <int name="architModOnlineColor" value="-15753896" />
+    <int name="text_size_pick" value="16" />
+    <int name="architModConBackColor" value="-526345" />
+    <int name="architModChatDarkColor" value="-15559594" />
+    <boolean name="Up_size_limit" value="true" />
+    <int name="date_left_color" value="-1" />
+    <int name="architModChatRightBubble" value="-921103" />
+    <string name="codepa">MDAwMA==</string>
+    <boolean name="Conv_call_btn" value="false" />
+    <int name="ModChaSendColor" value="-1" />
+    <string name="bubble_style">apple</string>
+    <int name="main_text" value="16" />
+    <int name="ModOnlineColor" value="-16777216" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <int name="HomeBarText" value="-263173" />
+    <int name="date_right_color" value="-1" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="hide_fab" value="false" />
+    <boolean name="statuschat" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatEntry" value="-889170021" />
+    <boolean name="Archv_chats" value="false" />
+    <int name="ModFabBgColor" value="2503224" />
+    <int name="ModConBackColor" value="-1" />
+    <int name="architModChatTextColor" value="-13619152" />
+    <int name="ModConDarkColor" value="-16315843" />
+    <int name="architModDarkConPickColor" value="-15559594" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="architModConDarkColor" value="-15559594" />
+    <int name="architModChatMicColor" value="-592138" />
+    <boolean name="enable_old" value="false" />
+    <int name="architModFabNormalColor" value="-43230" />
+    <int name="ModConTextColor" value="-16777216" />
+    <int name="architModConTextColor" value="-15461356" />
+    <string name="convostyle">3</string>
+    <boolean name="Img_highres_btn" value="true" />
+    <int name="ModFabPressedColor" value="-16315843" />
+    <int name="architModChatEntry" value="-789517" />
+    <int name="ModChatEmojiColor" value="-1" />
+    <int name="ModDarkConPickColor" value="-16315843" />
+    <string name="HomeEntry">yousef</string>
+    <int name="ModConPickColor" value="-16315843" />
+    <int name="architModChatColor" value="-15753896" />
+    <int name="ModChatBtnColor" value="-1" />
+    <boolean name="Img_share_limit" value="true" />
+    <int name="ModConPickBackColor" value="-1" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-16315843" />
+    <boolean name="Audio_sensor" value="false" />
+</map>

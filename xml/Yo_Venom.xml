@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatLeftBubble" value="-1114112" />
+    <int name="BGColor" value="-1114112" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="custom_wall" value="false" />
+    <int name="ModChatDarkColor" value="-1114112" />
+    <string name="tick_style">x</string>
+    <int name="ModFabNormalColor" value="-13949659" />
+    <string name="yo_nicons">1</string>
+    <boolean name="my_name" value="false" />
+    <int name="ModConColor" value="-13949659" />
+    <int name="ModChatRightBubble" value="-13949659" />
+    <int name="ModChatTextColor" value="-13949659" />
+    <string name="ConvoEntry">1</string>
+    <string name="font">Passing_Notes</string>
+    <int name="ModChatBubbleText" value="-1114112" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="hide_action_l" value="false" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="text_size_pick" value="16" />
+    <string name="ModFabBgPosX">0</string>
+    <boolean name="hide_action_m" value="false" />
+    <int name="date_left_color" value="-202777" />
+    <string name="ModFabBgPosY">2000</string>
+    <boolean name="Conv_call_btn" value="false" />
+    <string name="bubble_style">rounded</string>
+    <int name="ModFabTextColor" value="-13949659" />
+    <int name="main_text" value="16" />
+    <int name="ModChatBubbleTextLeft" value="-13949659" />
+    <int name="HomeBarText" value="-1114112" />
+    <int name="date_right_color" value="-1" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="hide_fab" value="false" />
+    <boolean name="statuschat" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModDarkConPickColorNav" value="-1114112" />
+    <int name="ModFabBgColor" value="-1510994161" />
+    <int name="ModConBackColor" value="-202777" />
+    <int name="ModConDarkColor" value="-1114112" />
+    <boolean name="TxtSelect" value="true" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="enable_old" value="false" />
+    <boolean name="hide_action_a" value="false" />
+    <string name="HomeEntry">yousef</string>
+    <int name="ModDarkConPickColor" value="-1114112" />
+    <boolean name="hide_action_b" value="false" />
+    <int name="ModConPickColor" value="-13949659" />
+    <int name="ModChatBtnColor" value="-13949659" />
+    <int name="ModConPickBackColor" value="-202777" />
+    <int name="row_resizer" value="0" />
+    <int name="ModChatColor" value="-13949659" />
+    <boolean name="AttBt" value="false" />
+</map>

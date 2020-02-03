@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatLeftBubble" value="-259762563" />
+    <int name="BGColor" value="-6528224" />
+    <boolean name="yo_hideinfo" value="false" />
+    <int name="ModChatDarkColor" value="-7181000" />
+    <string name="tick_style">newwaca</string>
+    <int name="ModChatGStatusB" value="-5930671" />
+    <int name="ModFabNormalColor" value="-5930671" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-7181000" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModConColor" value="-5930671" />
+    <int name="ModChatRightBubble" value="-461089155" />
+    <int name="ModChatTextColor" value="-943308" />
+    <string name="ConvoEntry">11</string>
+    <int name="ModChatBubbleText" value="-1" />
+    <int name="ModlastseenColor" value="-943308" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModConTextColor" value="-943308" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="convostyle">0</string>
+    <int name="text_size_pick" value="16" />
+    <int name="ModFabPressedColor" value="-5930671" />
+    <int name="date_left_color" value="-1" />
+    <int name="ModChatEmojiColor" value="-731648" />
+    <string name="HomeEntry">yousef</string>
+    <int name="ModDarkConPickColor" value="-7181000" />
+    <boolean name="Conv_call_btn" value="false" />
+    <int name="ModChaSendColor" value="-731648" />
+    <string name="bubble_style">ilkhang</string>
+    <int name="main_text" value="16" />
+    <int name="ModOnlineColor" value="-943308" />
+    <int name="ModConPickColor" value="-5930671" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <int name="ModChatBtnColor" value="-731648" />
+    <int name="date_right_color" value="-1" />
+    <int name="ModChatColor" value="-5930671" />
+    <boolean name="AttBt" value="true" />
+    <int name="square_photo_ratio_picker" value="3" />
+</map>

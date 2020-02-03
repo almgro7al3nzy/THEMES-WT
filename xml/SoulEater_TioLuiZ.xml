@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatEntry" value="-7090448" />
+    <int name="ModChatLeftBubble" value="-6632219" />
+    <int name="BGColor" value="-671088641" />
+    <boolean name="yo_hideinfo" value="false" />
+    <string name="tick_style">bpg</string>
+    <int name="ModChatDarkColor" value="-7949607" />
+    <int name="ModChatGStatusB" value="-6632219" />
+    <int name="ModFabNormalColor" value="-7949607" />
+    <string name="yo_nicons">12</string>
+    <int name="ModChaSendBKColor" value="-1" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-7949607" />
+    <int name="ModConColor" value="-7949607" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModChatRightBubble" value="-6762004" />
+    <int name="ModChatTextColor" value="-9288839" />
+    <string name="ConvoEntry">4</string>
+    <string name="font">Default</string>
+    <int name="ModChatBubbleText" value="-9486218" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModlastseenColor" value="-8930083" />
+    <int name="ModChatGStatusT" value="-9354632" />
+    <int name="ModConTextColor" value="-8930083" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="convostyle">0</string>
+    <int name="text_size_pick" value="16" />
+    <int name="ModFabPressedColor" value="-7949607" />
+    <int name="date_left_color" value="-1" />
+    <int name="ModChatEmojiColor" value="-9288839" />
+    <string name="HomeEntry">yowa</string>
+    <int name="ModDarkConPickColor" value="-7949607" />
+    <int name="ModChaSendColor" value="-9354632" />
+    <boolean name="Conv_call_btn" value="false" />
+    <string name="bubble_style">materialized</string>
+    <int name="main_text" value="16" />
+    <int name="ModOnlineColor" value="-8930083" />
+    <int name="ModConPickColor" value="-7949607" />
+    <int name="HomeBarText" value="-1" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <int name="ModChatBtnColor" value="-16777216" />
+    <int name="date_right_color" value="-9486218" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-7949607" />
+    <int name="square_photo_ratio_picker" value="14" />
+</map>

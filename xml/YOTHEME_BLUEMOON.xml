@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="-785372571" />
+    <int name="ModChatLeftBubble" value="-649143059" />
+    <int name="BGColor" value="1580214885" />
+    <boolean name="yo_hideinfo" value="false" />
+    <string name="tick_style">x</string>
+    <int name="ModChatDarkColor" value="-13620635" />
+    <int name="ModConBackColor" value="-10986580" />
+    <int name="ModFabNormalColor" value="-13620635" />
+    <int name="ModChaSendBKColor" value="-1077182" />
+    <int name="ModConDarkColor" value="-13620635" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModConColor" value="-13620635" />
+    <int name="ModChatRightBubble" value="-651154843" />
+    <int name="ModChatTextColor" value="-1052689" />
+    <string name="font">Comfortaa</string>
+    <string name="ConvoEntry">1</string>
+    <int name="ModChatBubbleText" value="-657931" />
+    <int name="ModlastseenColor" value="-11608851" />
+    <int name="ModConTextColor" value="-986896" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="14" />
+    <int name="date_left_color" value="-736678314" />
+    <int name="ModChatEmojiColor" value="-7580328" />
+    <int name="ModDarkConPickColor" value="-13620635" />
+    <boolean name="Conv_call_btn" value="true" />
+    <int name="ModChaSendColor" value="-5626844" />
+    <string name="bubble_style">altcr</string>
+    <int name="main_text" value="16" />
+    <int name="ModConPickColor" value="-13620635" />
+    <int name="ModOnlineColor" value="-13620635" />
+    <int name="ModChatBubbleTextLeft" value="-15195586" />
+    <int name="HomeBarText" value="-1" />
+    <int name="ModChatBtnColor" value="-11608851" />
+    <int name="date_right_color" value="-674575670" />
+    <int name="ModConPickBackColor" value="-10986580" />
+    <int name="ModChatColor" value="-13620635" />
+    <boolean name="AttBt" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="BGColor" value="-3812173" />
+    <boolean name="yo_hideinfo" value="false" />
+    <int name="ModChatDarkColor" value="-15751756" />
+    <string name="tick_style">altcrayon</string>
+    <int name="ModChatGStatusB" value="-694300497" />
+    <int name="ModFabNormalColor" value="-12926523" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-15751756" />
+    <int name="ModConColor" value="-12926523" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModChatTextColor" value="-15818579" />
+    <string name="ConvoEntry">4</string>
+    <int name="ModChatBubbleText" value="-16777216" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModlastseenColor" value="-16220508" />
+    <int name="ModChatGStatusT" value="-1" />
+    <int name="ModConTextColor" value="-16220508" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="convostyle">0</string>
+    <int name="text_size_pick" value="16" />
+    <int name="ModFabPressedColor" value="-12926523" />
+    <int name="date_left_color" value="-16777216" />
+    <int name="ModChatEmojiColor" value="-15818579" />
+    <int name="ModDarkConPickColor" value="-15751756" />
+    <string name="HomeEntry">yousef</string>
+    <boolean name="Conv_call_btn" value="false" />
+    <int name="ModChaSendColor" value="-15818579" />
+    <string name="bubble_style">trans</string>
+    <int name="main_text" value="16" />
+    <int name="ModConPickColor" value="-12926523" />
+    <int name="ModOnlineColor" value="-16220508" />
+    <int name="ModChatBubbleTextLeft" value="-16777216" />
+    <int name="ModChatBtnColor" value="-15818579" />
+    <int name="date_right_color" value="-16777216" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-12926523" />
+    <int name="square_photo_ratio_picker" value="1" />
+</map>
