@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="square_photo_ratio_picker" value="20" />
+<int name="main_text" value="15" />
+<int name="date_right_color" value="-1" />
+<boolean name="TxtSelect" value="true" />
+<boolean name="Img_highres_btn" value="false" />
+<string name="ConvoEntry">5</string>
+<boolean name="Conv_call_btn" value="true" />
+<int name="ModConTextColor" value="-5696497" />
+<int name="ModChatEmojiColor" value="-1" />
+<boolean name="Up_size_limit" value="true" />
+<int name="ModConPickColor" value="-11382191" />
+<int name="ModConColor" value="-11382191" />
+<int name="text_size_pick" value="13" />
+<boolean name="hide_fab" value="true" />
+<int name="ModlastseenColor" value="-14124695" />
+<boolean name="statuschat" value="true" />
+<int name="ModChatTextColor" value="-1" />
+<int name="ModChatBubbleTextLeft" value="-1" />
+<int name="ModChatColor" value="-11382191" />
+<boolean name="Audio_sensor" value="false" />
+<int name="ModOnlineColor" value="-14124695" />
+<int name="ModChaSendColor" value="-1" />
+<boolean name="my_statusd" value="true" />
+<boolean name="my_name" value="true" />
+<string name="bubble_style">apple</string>
+<boolean name="PicProf" value="true" />
+<boolean name="AttBt" value="false" />
+<boolean name="Img_share_limit" value="true" />
+<int name="ModChatLeftBubble" value="-716025263" />
+<int name="ModChatEntry" value="0" />
+<int name="date_left_color" value="-1" />
+<int name="ModFabNormalColor" value="-11382191" />
+<boolean name="extended_notifi" value="true" />
+<int name="ModChatRightBubble" value="-1263987956" />
+<string name="convostyle">3</string>
+<string name="HomeEntry">telegram</string>
+<int name="BGColor" value="16777215" />
+<int name="ModChatBubbleText" value="-1" />
+<string name="tick_style">altcrayon</string>
+<boolean name="yo_hideinfo" value="false" />
+</map>
