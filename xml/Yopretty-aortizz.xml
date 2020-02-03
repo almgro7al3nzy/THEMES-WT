@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="-297122954" />
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatLeftBubble" value="-842372210" />
+    <int name="BGColor" value="11442392" />
+    <boolean name="yo_hideinfo" value="false" />
+    <string name="tick_style">omflatcircles</string>
+    <int name="ModChatDarkColor" value="-3511154" />
+    <int name="ModConBackColor" value="-3511154" />
+    <int name="ModFabNormalColor" value="-3511154" />
+    <string name="yo_nicons">34</string>
+    <int name="ModChaSendBKColor" value="-3378539" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-3511154" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModConColor" value="-3511154" />
+    <boolean name="Pop_Heds" value="true" />
+    <int name="ModChatRightBubble" value="-664448875" />
+    <int name="ModChatTextColor" value="-1" />
+    <string name="ConvoEntry">12</string>
+    <boolean name="my_statusd" value="true" />
+    <int name="ModChatBubbleText" value="-16777216" />
+    <int name="ModlastseenColor" value="-1" />
+    <boolean name="PicProf" value="true" />
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="enable_newUI" value="false" />
+    <int name="HomeCounterBK" value="-16777216" />
+    <string name="convostyle">1</string>
+    <int name="text_size_pick" value="14" />
+    <int name="ModChatEmojiColor" value="-1" />
+    <string name="HomeEntry">yousef</string>
+    <int name="ModDarkConPickColor" value="-3511154" />
+    <int name="ModChaSendColor" value="-1" />
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">3D</string>
+    <int name="main_text" value="20" />
+    <int name="ModOnlineColor" value="-1" />
+    <int name="ModConPickColor" value="-3511154" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <int name="HomeBarText" value="-1" />
+    <int name="ModChatBtnColor" value="-16777216" />
+    <boolean name="hide_fab" value="true" />
+    <int name="ModConPickBackColor" value="-3511154" />
+    <int name="ModChatColor" value="-3511154" />
+    <boolean name="AttBt" value="true" />
+    <int name="square_photo_ratio_picker" value="40" />
+</map>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatEntry" value="-15322805" />
+    <int name="ModChatLeftBubble" value="-6669242" />
+    <int name="BGColor" value="16777215" />
+    <boolean name="yo_hideinfo" value="false" />
+    <string name="tick_style">circles</string>
+    <int name="ModChatDarkColor" value="-16378330" />
+    <int name="ModFabNormalColor" value="-16378330" />
+    <int name="ModChaSendBKColor" value="-6669242" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-16378330" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModConColor" value="-16378330" />
+    <int name="ModChatRightBubble" value="-1257892314" />
+    <int name="ModChatTextColor" value="-1" />
+    <string name="ConvoEntry">12</string>
+    <string name="font">Roboto-Medium</string>
+    <int name="ModChatBubbleText" value="-1" />
+    <int name="ModConTextColor" value="-6669242" />
+    <int name="text_size_pick" value="15" />
+    <int name="ModChatEmojiColor" value="-1205596" />
+    <string name="HomeEntry">waca</string>
+    <int name="ModDarkConPickColor" value="-16378330" />
+    <int name="ModChaSendColor" value="-1" />
+    <string name="bubble_style">apple</string>
+    <int name="main_text" value="15" />
+    <int name="ModConPickColor" value="-16378330" />
+    <int name="ModOnlineColor" value="-16777216" />
+    <int name="ModChatBubbleTextLeft" value="-1927782" />
+    <int name="HomeBarText" value="-1" />
+    <int name="ModChatBtnColor" value="-1205596" />
+    <boolean name="hide_fab" value="true" />
+    <int name="ModChatColor" value="-16378330" />
+    <boolean name="AttBt" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

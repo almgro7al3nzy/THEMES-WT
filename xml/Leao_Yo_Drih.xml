@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatLeftBubble" value="-13553374" />
+    <int name="missed_call_text_color_picker" value="-13553374" />
+    <int name="BGColor" value="-1898785885" />
+    <boolean name="yo_hideinfo" value="false" />
+    <int name="quoted_bg_picker" value="-1898785885" />
+    <int name="ModChatDarkColor" value="-13553374" />
+    <string name="tick_style">yousef</string>
+    <int name="ModChatGStatusB" value="-1898785885" />
+    <int name="ModFabNormalColor" value="-1640943326" />
+    <string name="yo_nicons">0</string>
+    <int name="ModChaSendBKColor" value="-2960477" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConColor" value="-2960477" />
+    <int name="ModChatRightBubble" value="-13553374" />
+    <int name="date_divider_color_picker" value="-13553374" />
+    <int name="ModChatTextColor" value="-13553374" />
+    <int name="missed_call_bg_picker" value="-1898785885" />
+    <string name="font">ComicSans</string>
+    <string name="ConvoEntry">15</string>
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <boolean name="my_statusd" value="false" />
+    <int name="ModChatBubbleText" value="-2960477" />
+    <boolean name="onlinechat" value="false" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModlastseenColor" value="-2960477" />
+    <int name="participant_name_color_picker" value="-2960477" />
+    <int name="emojipopup_header" value="-2960477" />
+    <boolean name="hide_action_l" value="true" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="text_size_pick" value="16" />
+    <int name="quoted_name_picker" value="-13553374" />
+    <boolean name="hide_action_m" value="false" />
+    <int name="date_left_color" value="-2960477" />
+    <int name="ModChaSendColor" value="-13553374" />
+    <boolean name="Conv_call_btn" value="false" />
+    <string name="bubble_style">d3</string>
+    <int name="main_text" value="16" />
+    <int name="ModOnlineColor" value="-2960477" />
+    <int name="ModChatBubbleTextLeft" value="-2960477" />
+    <int name="HomeBarText" value="-3565002" />
+    <int name="quoted_divider_picker" value="-1898785885" />
+    <int name="date_right_color" value="-2960477" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="hide_fab" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatEntry" value="-1898785885" />
+    <int name="missed_call_icon_bg_picker" value="-13553374" />
+    <boolean name="Archv_chats" value="false" />
+    <int name="ModFabBgColor" value="-1640943326" />
+    <int name="ModConBackColor" value="-13553374" />
+    <int name="quoted_text_picker" value="-13553374" />
+    <int name="emojipopup_body" value="-13553374" />
+    <int name="ModConDarkColor" value="-13553374" />
+    <boolean name="enable_old" value="false" />
+    <int name="ModChatGStatusT" value="-13553374" />
+    <int name="ModConTextColor" value="-2960477" />
+    <int name="date_bubble_color_picker" value="-1898785885" />
+    <int name="HomeCounterBK" value="-2960477" />
+    <string name="convostyle">1</string>
+    <int name="chat_icon_forward_picker" value="-1898785885" />
+    <int name="chat_icon_bg_forward_picker" value="-1898785885" />
+    <int name="ModFabPressedColor" value="-1640943326" />
+    <boolean name="hide_action_a" value="false" />
+    <int name="ModChatEmojiColor" value="-13553374" />
+    <int name="ModDarkConPickColor" value="-13553374" />
+    <string name="HomeEntry">yousef</string>
+    <boolean name="hide_action_b" value="false" />
+    <int name="ModConPickColor" value="-13553374" />
+    <boolean name="elapsed_time" value="false" />
+    <int name="ModChatBtnColor" value="-13553374" />
+    <int name="ModConPickBackColor" value="-13553374" />
+    <boolean name="AttBt" value="false" />
+    <int name="ModChatColor" value="-13553374" />
+    <int name="row_resizer" value="0" />
+</map>

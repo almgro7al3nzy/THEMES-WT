@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="BGColor" value="-1" />
+    <boolean name="yo_hideinfo" value="false" />
+    <string name="tick_style">oldwaca</string>
+    <int name="ModChatDarkColor" value="-16731188" />
+    <int name="ModChatGStatusB" value="-1" />
+    <int name="ModFabNormalColor" value="-16731188" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-16731188" />
+    <int name="ModConColor" value="-16731188" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModChatRightBubble" value="-1" />
+    <int name="ModChatTextColor" value="-9452162" />
+    <string name="ConvoEntry">5</string>
+    <int name="ModChatBubbleText" value="-14565679" />
+    <int name="ModlastseenColor" value="-14565679" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModChatGStatusT" value="-9452162" />
+    <int name="ModConTextColor" value="-14565679" />
+    <boolean name="hide_action_l" value="true" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="HomeCounterBK" value="-14565679" />
+    <int name="text_size_pick" value="16" />
+    <int name="ModFabPressedColor" value="-16731188" />
+    <int name="date_left_color" value="-9452162" />
+    <int name="ModChatEmojiColor" value="-9452162" />
+    <string name="HomeEntry">yousef</string>
+    <int name="ModDarkConPickColor" value="-16731188" />
+    <boolean name="Conv_call_btn" value="false" />
+    <int name="ModChaSendColor" value="-9452162" />
+    <string name="bubble_style">chaton</string>
+    <int name="main_text" value="16" />
+    <int name="ModOnlineColor" value="-14565679" />
+    <int name="ModConPickColor" value="-16731188" />
+    <int name="ModChatBubbleTextLeft" value="-9452162" />
+    <int name="ModChatBtnColor" value="-9452162" />
+    <int name="date_right_color" value="-14565679" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-16731188" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

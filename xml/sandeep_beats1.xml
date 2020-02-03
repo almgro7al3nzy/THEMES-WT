@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="BGColor" value="-131587" />
+    <int name="ModChatDarkColor" value="-2331281" />
+    <string name="tick_style">circles</string>
+    <int name="ModChatGStatusB" value="-1534061" />
+    <int name="ModFabNormalColor" value="-2603191" />
+    <string name="pstatus">My crime is that of curiosity.</string>
+    <boolean name="my_name" value="true" />
+    <int name="architModConPickBackColor" value="-1184275" />
+    <int name="architModConPickColor" value="-11905177" />
+    <int name="architModFabPressedColor" value="-11905177" />
+    <int name="architModConColor" value="-11905177" />
+    <int name="ModConColor" value="-2331281" />
+    <string name="ConvoEntry">2</string>
+    <boolean name="PicProf" value="true" />
+    <int name="ModlastseenColor" value="-2618350" />
+    <int name="architModOnlineColor" value="-142742" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="text_size_pick" value="15" />
+    <int name="architModConBackColor" value="-1184275" />
+    <int name="architModChatDarkColor" value="-11905177" />
+    <int name="architModChatLeftBubble" value="-687865857" />
+    <int name="architModChatRightBubble" value="-687865857" />
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">hang</string>
+    <int name="main_text" value="15" />
+    <int name="ModOnlineColor" value="-2618350" />
+    <int name="HomeBarText" value="-1" />
+    <int name="architModChatGStatusB" value="-11905177" />
+    <boolean name="statuschat" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatEntry" value="-131587" />
+    <int name="ModFabBgColor" value="-1225606477" />
+    <int name="architModChatTextColor" value="-104610" />
+    <int name="architModDarkConPickColor" value="-11905177" />
+    <int name="ModConDarkColor" value="-2331281" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="architModConDarkColor" value="-11905177" />
+    <int name="architModChatMicColor" value="-104610" />
+    <int name="architModlastseenColor" value="-142742" />
+    <int name="ModChatGStatusT" value="-1" />
+    <int name="architModFabNormalColor" value="-889999" />
+    <int name="architModChatGStatusT" value="-889999" />
+    <int name="ModFabPressedColor" value="-2603191" />
+    <int name="architModChatEntry" value="-11905177" />
+    <int name="ModDarkConPickColor" value="-2331281" />
+    <int name="architModChatColor" value="-11905177" />
+    <int name="architModChatBubbleText" value="-13355980" />
+    <int name="ModConPickColor" value="-2331281" />
+    <int name="ModChatBtnColor" value="-1966078" />
+    <int name="ModChatColor" value="-2331281" />
+    <boolean name="AttBt" value="false" />
+</map>

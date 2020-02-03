@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatLeftBubble" value="-599282" />
+    <int name="BGColor" value="-15198184" />
+    <boolean name="yo_hideinfo" value="true" />
+    <boolean name="custom_wall" value="false" />
+    <boolean name="always_online" value="false" />
+    <int name="ModChatDarkColor" value="-15198184" />
+    <string name="tick_style">ios</string>
+    <int name="ModFabNormalColor" value="-606208" />
+    <string name="yo_nicons">1</string>
+    <boolean name="my_name" value="true" />
+    <int name="ModConColor" value="-15198184" />
+    <boolean name="Pop_Heds" value="true" />
+    <int name="ModChatRightBubble" value="-14194554" />
+    <int name="ModChatTextColor" value="-43691" />
+    <string name="ConvoEntry">1</string>
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <boolean name="onlinechat" value="false" />
+    <int name="ModChatBubbleText" value="-1" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModlastseenColor" value="-13662802" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="text_size_pick" value="14" />
+    <int name="date_left_color" value="-16777216" />
+    <int name="architModChatRightBubble" value="-1" />
+    <boolean name="Conv_call_btn" value="true" />
+    <int name="main_text" value="15" />
+    <int name="ModOnlineColor" value="-6888607" />
+    <int name="HomeBarText" value="-599282" />
+    <int name="date_right_color" value="-1" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="statuschat" value="true" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatEntry" value="-13883095" />
+    <boolean name="Archv_chats" value="true" />
+    <int name="ModFabBgColor" value="16777215" />
+    <int name="ModConBackColor" value="-15198184" />
+    <int name="ModConDarkColor" value="-15198184" />
+    <boolean name="TxtSelect" value="true" />
+    <string name="chats_play_contact_online_tone">content://media/external/audio/media/44018</string>
+    <int name="architModChatMicColor" value="-1" />
+    <boolean name="enable_old" value="false" />
+    <int name="ModConTextColor" value="-377025" />
+    <string name="convostyle">0</string>
+    <int name="ModFabPressedColor" value="-599282" />
+    <int name="ModChatEmojiColor" value="-633787" />
+    <int name="ModDarkConPickColor" value="-15198184" />
+    <string name="HomeEntry">telegram</string>
+    <int name="ModConPickColor" value="-15198184" />
+    <int name="ModChatBtnColor" value="-633787" />
+    <int name="ModConPickBackColor" value="-15198184" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-15198184" />
+</map>

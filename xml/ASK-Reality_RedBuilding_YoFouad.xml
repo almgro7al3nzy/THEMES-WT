@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="true" />
+    <int name="ModChatLeftBubble" value="-1" />
+    <int name="BGColor" value="-1" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="custom_wall" value="false" />
+    <int name="quoted_bg_picker" value="-7792874" />
+    <int name="ModChatDarkColor" value="-7792874" />
+    <string name="tick_style">joaquins</string>
+    <int name="ModChatGStatusB" value="-6348508" />
+    <int name="ModFabNormalColor" value="-6348508" />
+    <string name="yo_nicons">0</string>
+    <int name="ModChaSendBKColor" value="-5098697" />
+    <boolean name="my_name" value="false" />
+    <int name="ModConColor" value="-6348508" />
+    <int name="ModChatRightBubble" value="-4570297" />
+    <int name="date_divider_color_picker" value="-1250068" />
+    <int name="ModChatTextColor" value="-1250068" />
+    <string name="font">Roboto-Light</string>
+    <string name="ConvoEntry">7</string>
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <boolean name="my_statusd" value="false" />
+    <boolean name="onlinechat" value="false" />
+    <int name="ModChatBubbleText" value="-1250068" />
+    <boolean name="PicProf" value="true" />
+    <int name="ModlastseenColor" value="-6348508" />
+    <int name="participant_name_color_picker" value="-1250068" />
+    <int name="emojipopup_header" value="-1250068" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="message_link_color_picker" value="-1250068" />
+    <int name="text_size_pick" value="16" />
+    <int name="quoted_name_picker" value="-1250068" />
+    <int name="chats_date_pending_color_picker" value="-6348508" />
+    <int name="date_left_color" value="1711276032" />
+    <int name="ModChaSendColor" value="-1250068" />
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">md</string>
+    <int name="main_text" value="15" />
+    <int name="ModOnlineColor" value="-6348508" />
+    <int name="pagetitle_sel_picker" value="-1250068" />
+    <int name="ModChatBubbleTextLeft" value="-15461356" />
+    <int name="emojipopup_icons" value="-7792874" />
+    <int name="quoted_divider_picker" value="-1250068" />
+    <int name="statuses_bar_bg_picker" value="-6348508" />
+    <int name="date_right_color" value="1728053247" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="statuschat" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatEntry" value="-1499520732" />
+    <boolean name="Archv_chats" value="false" />
+    <int name="ModDarkConPickColorNav" value="-7792874" />
+    <int name="pagetitle_picker" value="-1250068" />
+    <int name="ModConBackColor" value="-1" />
+    <int name="quoted_text_picker" value="-1250068" />
+    <int name="emojipopup_body" value="-1250068" />
+    <int name="ModConDarkColor" value="-7792874" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="statuses_bar_text_picker" value="-1250068" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <int name="tabindicator" value="-1250068" />
+    <boolean name="enable_old" value="false" />
+    <int name="ModChatGStatusT" value="-1250068" />
+    <int name="ModConTextColor" value="-15724528" />
+    <int name="ModChatBubbleHyperlinks" value="-1250068" />
+    <int name="date_bubble_color_picker" value="-1499520732" />
+    <string name="convostyle">2</string>
+    <int name="chat_icon_forward_picker" value="-1250068" />
+    <int name="chat_icon_bg_forward_picker" value="-1499520732" />
+    <int name="ModChatEmojiColor" value="-1250068" />
+    <int name="ModDarkConPickColor" value="-7792874" />
+    <string name="HomeEntry">wamod</string>
+    <int name="ModConPickColor" value="-6348508" />
+    <boolean name="elapsed_time" value="true" />
+    <int name="ModChatBtnColor" value="-1250068" />
+    <int name="ModConPickBackColor" value="-1" />
+    <int name="row_resizer" value="0" />
+    <int name="ModChatColor" value="-6348508" />
+    <boolean name="AttBt" value="false" />
+</map>

@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <boolean name="NorahHideCompose" value="false" />
+    <int name="ModChatLeftBubble" value="-16748033" />
+    <boolean name="Pops_Heads" value="false" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="always_online" value="true" />
+    <boolean name="custom_wall" value="false" />
+    <int name="ModChatDarkColor" value="-16748033" />
+    <string name="yo_nicons">12</string>
+    <boolean name="NorahHideComposeG" value="false" />
+    <int name="ModChaSendBKColor" value="-256" />
+    <int name="ModConColor" value="-16748033" />
+    <boolean name="imsHidePlayB" value="true" />
+    <int name="ConvoBack" value="-16751105" />
+    <boolean name="imsHideReadC" value="true" />
+    <boolean name="imsHideCompose" value="true" />
+    <int name="ModChatBubbleText" value="-16748033" />
+    <int name="ModlastseenColor" value="-1" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="NorahHideSeen" value="true" />
+    <boolean name="NorahHideReadB" value="true" />
+    <boolean name="imsHidePlayG" value="true" />
+    <boolean name="Conv_call_btn" value="false" />
+    <int name="main_text" value="16" />
+    <int name="ModChatBubbleTextLeft" value="-256" />
+    <boolean name="chat_hide_voice_icon_check" value="false" />
+    <int name="date_right_color" value="-16748033" />
+    <boolean name="NorahHidePlayC" value="true" />
+    <boolean name="PicProfile" value="false" />
+    <boolean name="NorahHideReceipt" value="true" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="statuschat" value="false" />
+    <int name="ModChatEntry" value="-16748033" />
+    <boolean name="NorahHideReadG" value="true" />
+    <boolean name="always_online_check" value="true" />
+    <boolean name="Archv_chats" value="false" />
+    <boolean name="NorahHidePlayB" value="false" />
+    <boolean name="chat_hide_cam_icon_check" value="false" />
+    <int name="ModConBackColor" value="-16748033" />
+    <boolean name="NorahHideRecord" value="false" />
+    <boolean name="dark_prefs_theme_check" value="false" />
+    <boolean name="imsHideSeen" value="true" />
+    <int name="HomeCounterBK" value="-1" />
+    <string name="convostyle">3</string>
+    <string name="SetLanguage">3</string>
+    <boolean name="norah_hideinfo" value="false" />
+    <boolean name="hide_action_b" value="false" />
+    <boolean name="elapsed_time" value="true" />
+    <int name="ModChatBtnColor" value="-256" />
+    <boolean name="imsHideRecord" value="true" />
+    <int name="ModConPickBackColor" value="-16748033" />
+    <int name="ModChatColor" value="-16748033" />
+    <boolean name="imsHidePlayC" value="true" />
+    <boolean name="chat_stock_emoji_size_check" value="false" />
+    <int name="BGColor" value="48026" />
+    <string name="Language">3</string>
+    <boolean name="two_factor_auth" value="false" />
+    <string name="tick_style">aran</string>
+    <int name="ModChatGStatusB" value="-256" />
+    <int name="ModFabNormalColor" value="-16748033" />
+    <boolean name="selectable_text_off_check" value="false" />
+    <boolean name="my_name" value="true" />
+    <int name="ModChatRightBubble" value="-256" />
+    <int name="ModChatTextColor" value="-256" />
+    <string name="ConvoEntry">12</string>
+    <string name="font">Raleway</string>
+    <boolean name="my_statusd" value="false" />
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <boolean name="onlinechat" value="false" />
+    <boolean name="hide_action_l" value="true" />
+    <boolean name="enable_newUI" value="false" />
+    <boolean name="imsHideReadB" value="true" />
+    <int name="text_size_pick" value="15" />
+    <boolean name="hide_action_m" value="false" />
+    <boolean name="Up_size_limit" value="true" />
+    <int name="date_left_color" value="-256" />
+    <boolean name="imsHideReadG" value="true" />
+    <boolean name="NorahHidePlayG" value="true" />
+    <int name="ModChaSendColor" value="-16748033" />
+    <string name="bubble_style">3d</string>
+    <int name="chat_emoji_size_picker" value="29" />
+    <int name="ModOnlineColor" value="-13487566" />
+    <int name="HomeBarText" value="-1048832" />
+    <boolean name="imsHideReceiptB" value="true" />
+    <boolean name="disable_newUI" value="true" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="chat_open_profile_pic_disabled_check" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="actionbar" value="true" />
+    <boolean name="imsHideReceiptG" value="true" />
+    <int name="ModConDarkColor" value="-16748033" />
+    <boolean name="square_photo_check" value="false" />
+    <boolean name="TxtSelect" value="true" />
+    <boolean name="enable_old" value="false" />
+    <boolean name="imsHideReceiptC" value="true" />
+    <int name="ModConTextColor" value="-1048832" />
+    <int name="ModChatGStatusT" value="-16754433" />
+    <boolean name="NorahHideReadC" value="true" />
+    <boolean name="Img_highres_btn" value="true" />
+    <boolean name="disable_voice_calls_check" value="false" />
+    <boolean name="hide_action_a" value="false" />
+    <int name="ModChatEmojiColor" value="-256" />
+    <int name="ModDarkConPickColor" value="-16748033" />
+    <string name="HomeEntry">yowa</string>
+    <boolean name="norah_hide_chats_call_check" value="false" />
+    <int name="ModConPickColor" value="-16748033" />
+    <boolean name="Img_share_limit" value="true" />
+    <boolean name="AttBt" value="true" />
+    <int name="row_resizer" value="130" />
+</map>

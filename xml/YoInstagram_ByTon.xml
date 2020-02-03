@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="true" />
+    <boolean name="Archv_chats" value="true" />
+    <int name="BGColor" value="-1" />
+    <string name="tick_style">hike</string>
+    <int name="ModChatTextColor" value="-5920854" />
+    <boolean name="my_name" value="true" />
+    <int name="ModFabPressedColor" value="-11242083" />
+    <int name="ModConPickColor" value="-15575416" />
+    <int name="ModDarkConPickColor" value="-15775373" />
+    <int name="ModConColor" value="-15575416" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModConDarkColor" value="-15775373" />
+    <int name="ModChatBtnColor" value="-16777216" />
+    <int name="ModlastseenColor" value="-5920854" />
+    <boolean name="chats_show_contact_online_toast_check" value="true" />
+    <string name="ConvoEntry">0</string>
+    <boolean name="onlinechat" value="false" />
+    <boolean name="PicProf" value="true" />
+    <int name="ModFabNormalColor" value="-16743169" />
+    <int name="ModOnlineColor" value="-5920854" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="ModChatGStatusT" value="-1" />
+    <int name="ModConTextColor" value="-15575416" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="15" />
+    <int name="ModChatDarkColor" value="-15775373" />
+    <int name="ModChatLeftBubble" value="-1381654" />
+    <int name="ModChatRightBubble" value="-8007937" />
+    <int name="ModChatEntry" value="-5920854" />
+    <string name="HomeEntry">nlmods</string>
+    <boolean name="Conv_call_btn" value="false" />
+    <string name="bubble_style">ed</string>
+    <int name="main_text" value="13" />
+    <int name="ModChatBubbleText" value="-1" />
+    <int name="ModChatColor" value="-15575416" />
+    <int name="ModChatBubbleTextLeft" value="-16777216" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="AttBt" value="false" />
+    <int name="ModChatGStatusB" value="-15575416" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

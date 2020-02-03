@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="BGColor" value="-526870" />
+    <string name="tick_style">googlev2</string>
+    <int name="ModChatTextColor" value="-9918668" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConPickBackColor" value="-395550" />
+    <int name="ModConPickColor" value="-1616609" />
+    <int name="ModFabPressedColor" value="-6807439" />
+    <int name="ModDarkConPickColor" value="-1616609" />
+    <int name="ModConColor" value="-1616609" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModConDarkColor" value="-1616609" />
+    <int name="ModChatBtnColor" value="-12692842" />
+    <int name="ModlastseenColor" value="-1396181" />
+    <boolean name="enable_old" value="false" />
+    <string name="ConvoEntry">2</string>
+    <boolean name="PicProf" value="true" />
+    <int name="ModFabNormalColor" value="-6807439" />
+    <int name="ModOnlineColor" value="-1396181" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="ModChatGStatusT" value="-9755787" />
+    <int name="text_size_pick" value="15" />
+    <int name="ModConBackColor" value="-395550" />
+    <int name="ModChatDarkColor" value="-1616609" />
+    <int name="ModChatLeftBubble" value="-687865857" />
+    <int name="ModChatRightBubble" value="-687865857" />
+    <int name="ModChatEntry" value="-526870" />
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">hang</string>
+    <int name="main_text" value="15" />
+    <int name="ModChatColor" value="-1616609" />
+    <int name="ModChatBubbleText" value="-13355980" />
+    <int name="ModChatGStatusB" value="-807639" />
+    <boolean name="statuschat" value="false" />
+    <boolean name="AttBt" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

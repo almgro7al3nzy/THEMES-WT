@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <boolean name="Archv_chats" value="false" />
+    <int name="BGColor" value="-1726815" />
+    <boolean name="yo_hideinfo" value="false" />
+    <string name="tick_style">circles</string>
+    <int name="ModConPickBackColor" value="-1" />
+    <boolean name="my_name" value="false" />
+    <int name="ModConPickColor" value="-1829543" />
+    <int name="ModDarkConPickColor" value="-1829543" />
+    <int name="ModConColor" value="-1829543" />
+    <int name="ModConDarkColor" value="-1829543" />
+    <int name="ModChatBtnColor" value="-9770108" />
+    <string name="ConvoEntry">4</string>
+    <boolean name="PicProf" value="false" />
+    <int name="ModFabNormalColor" value="-1829543" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="convostyle">2</string>
+    <int name="text_size_pick" value="15" />
+    <int name="ModConBackColor" value="-1" />
+    <int name="ModChatDarkColor" value="-1829543" />
+    <int name="ModChatLeftBubble" value="-5772807" />
+    <int name="ModChatRightBubble" value="-9770108" />
+    <string name="HomeEntry">yousef</string>
+    <boolean name="Conv_call_btn" value="false" />
+    <string name="bubble_style">wapaper</string>
+    <int name="main_text" value="15" />
+    <int name="ModChatBubbleText" value="-1" />
+    <int name="ModChatColor" value="-1829543" />
+    <int name="ModChatBubbleTextLeft" value="-16777216" />
+    <boolean name="AttBt" value="true" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

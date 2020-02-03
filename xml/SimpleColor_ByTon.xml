@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="true" />
+    
+    <int name="ModChatLeftBubble" value="-12148526" />
+    <int name="BGColor" value="-1261114900" />
+    <boolean name="yo_hideinfo" value="true" />
+    <string name="tick_style">wbg</string>
+    <int name="ModChatDarkColor" value="-1615764" />
+    <int name="ModChatGStatusB" value="-12148526" />
+    <int name="ModFabNormalColor" value="-16732992" />
+    <boolean name="extended_notifi" value="true" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConColor" value="-1615764" />
+    <int name="ModChatRightBubble" value="-12433841" />
+    <int name="ModChatTextColor" value="-1615764" />
+    <boolean name="chats_show_contact_online_toast_check" value="true" />
+    <string name="ConvoEntry">3</string>
+    <boolean name="onlinechat" value="false" />
+    <int name="ModChatBubbleText" value="-12148526" />
+    <boolean name="PicProf" value="true" />
+    <int name="ModlastseenColor" value="-12433841" />
+    <int name="text_size_pick" value="15" />
+    <string name="hnotif">0</string>
+    <int name="date_left_color" value="-12433841" />
+    <boolean name="Conv_call_btn" value="true" />
+    <int name="ModChaSendColor" value="-1615764" />
+    <string name="bubble_style">apple</string>
+    <int name="main_text" value="15" />
+    <int name="ModOnlineColor" value="-12433841" />
+    <int name="ModChatBubbleTextLeft" value="-12433841" />
+    <int name="HomeBarText" value="-12433841" />
+    <int name="date_right_color" value="-12148526" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="statuschat" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatEntry" value="-1261114900" />
+    <boolean name="Archv_chats" value="true" />
+    <int name="ModConBackColor" value="-2823700" />
+    <int name="ModConDarkColor" value="-1615764" />
+    <boolean name="TxtSelect" value="false" />
+    <boolean name="enable_old" value="false" />
+    <int name="ModConTextColor" value="-12433841" />
+    <int name="ModChatGStatusT" value="-12433841" />
+    <string name="convostyle">3</string>
+    <int name="ModFabPressedColor" value="-16732992" />
+    <int name="ModChatEmojiColor" value="-1615764" />
+    <int name="ModDarkConPickColor" value="-1615764" />
+    <string name="HomeEntry">waca</string>
+    <int name="ModConPickColor" value="-1615764" />
+    <int name="ModChatBtnColor" value="-1615764" />
+    <int name="ModConPickBackColor" value="-2823700" />
+    <int name="ModChatColor" value="-12148526" />
+</map>

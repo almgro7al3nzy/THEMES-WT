@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatLeftBubble" value="-889192449" />
+    <int name="BGColor" value="-452984833" />
+    <int name="ModChatDarkColor" value="-2994611" />
+    <string name="tick_style">materialv2</string>
+    <int name="ModChatGStatusB" value="-7189724" />
+    <int name="ModFabNormalColor" value="-2930662" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-2994611" />
+    <int name="ModConColor" value="-2930662" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModChatRightBubble" value="-822083585" />
+    <int name="ModChatTextColor" value="-1351145" />
+    <string name="ConvoEntry">8</string>
+    <boolean name="onlinechat" value="false" />
+    <int name="ModlastseenColor" value="-1351145" />
+    <int name="ModChatGStatusT" value="-1" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="15" />
+    <int name="ModFabPressedColor" value="15786136" />
+    <int name="date_left_color" value="-14473922" />
+    <string name="codepa">MDAwMA==</string>
+    <int name="ModDarkConPickColor" value="-2994611" />
+    <string name="HomeEntry">telegram</string>
+    <string name="bubble_style">hang</string>
+    <int name="main_text" value="15" />
+    <int name="ModOnlineColor" value="-1351145" />
+    <int name="ModConPickColor" value="-2930662" />
+    <int name="HomeBarText" value="-1119007" />
+    <int name="ModChatBtnColor" value="-2930662" />
+    <int name="date_right_color" value="-14473922" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-2930662" />
+    <int name="square_photo_ratio_picker" value="51" />
+</map>

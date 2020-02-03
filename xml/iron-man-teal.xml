@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatLeftBubble" value="-450795171" />
+    <int name="BGColor" value="48026" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="custom_wall" value="false" />
+    <boolean name="always_online" value="true" />
+    <int name="ModChatDarkColor" value="-14587555" />
+    <string name="tick_style">face</string>
+    <int name="ModChatGStatusB" value="-721420288" />
+    <int name="ModFabNormalColor" value="-14587555" />
+    <string name="yo_nicons">12</string>
+    <int name="ModChaSendBKColor" value="-12958642" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConColor" value="-14587555" />
+    <boolean name="imsHidePlayB" value="true" />
+    <int name="ModChatRightBubble" value="-973078528" />
+    <int name="ConvoBack" value="-16777216" />
+    <boolean name="imsHideCompose" value="true" />
+    <boolean name="imsHideReadC" value="true" />
+    <int name="ModChatTextColor" value="-1" />
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <boolean name="my_statusd" value="false" />
+    <string name="font">ProductSans</string>
+    <string name="ConvoEntry">11</string>
+    <boolean name="onlinechat" value="false" />
+    <int name="ModChatBubbleText" value="-14587555" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModlastseenColor" value="-1" />
+    <boolean name="hide_action_l" value="true" />
+    <boolean name="enable_newUI" value="false" />
+    <boolean name="imsHideReadB" value="true" />
+    <int name="text_size_pick" value="16" />
+    <boolean name="Up_size_limit" value="true" />
+    <boolean name="hide_action_m" value="false" />
+    <boolean name="imsHidePlayG" value="true" />
+    <int name="date_left_color" value="-16777216" />
+    <boolean name="imsHideReadG" value="true" />
+    <boolean name="Conv_call_btn" value="false" />
+    <int name="ModChaSendColor" value="-14587555" />
+    <string name="bubble_style">3d</string>
+    <int name="main_text" value="17" />
+    <int name="ModOnlineColor" value="-13487566" />
+    <int name="HomeBarText" value="-16777216" />
+    <int name="ModChatBubbleTextLeft" value="-16777216" />
+    <boolean name="imsHideReceiptB" value="true" />
+    <boolean name="disable_newUI" value="true" />
+    <int name="date_right_color" value="-14587555" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="statuschat" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatEntry" value="-1306385886" />
+    <boolean name="Archv_chats" value="false" />
+    <boolean name="imsHideReceiptG" value="true" />
+    <int name="ModConBackColor" value="-14587555" />
+    <int name="ModConDarkColor" value="-14587555" />
+    <boolean name="TxtSelect" value="true" />
+    <boolean name="enable_old" value="false" />
+    <boolean name="imsHideReceiptC" value="true" />
+    <int name="ModChatGStatusT" value="-14587555" />
+    <int name="ModConTextColor" value="-16777216" />
+    <boolean name="imsHideSeen" value="true" />
+    <int name="HomeCounterBK" value="-8890803" />
+    <string name="convostyle">3</string>
+    <boolean name="Img_highres_btn" value="true" />
+    <boolean name="hide_action_a" value="false" />
+    <int name="ModChatEmojiColor" value="-14587555" />
+    <string name="HomeEntry">yowa</string>
+    <int name="ModDarkConPickColor" value="-14587555" />
+    <boolean name="hide_action_b" value="false" />
+    <int name="ModConPickColor" value="-14587555" />
+    <boolean name="elapsed_time" value="true" />
+    <int name="ModChatBtnColor" value="-14587555" />
+    <boolean name="imsHideRecord" value="true" />
+    <boolean name="Img_share_limit" value="true" />
+    <int name="ModConPickBackColor" value="-14587555" />
+    <boolean name="imsHidePlayC" value="true" />
+    <int name="row_resizer" value="0" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-14587555" />
+</map>

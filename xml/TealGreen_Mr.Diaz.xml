@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatLeftBubble" value="-11684180" />
+    <string name="tick_style">newwaca</string>
+    <int name="ModChatDarkColor" value="-13139076" />
+    <int name="ModFabNormalColor" value="-11684180" />
+    <int name="ModConBackColor" value="-1" />
+    <int name="ModConDarkColor" value="-13139076" />
+    <int name="ModConColor" value="-11684180" />
+    <int name="ModChatRightBubble" value="-1118482" />
+    <int name="ConvoBack" value="-1" />
+    <string name="ConvoEntry">5</string>
+    <int name="ModChatBubbleText" value="-16777216" />
+    <int name="ModConTextColor" value="-16777216" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="convostyle">2</string>
+    <int name="text_size_pick" value="14" />
+    <int name="ModFabPressedColor" value="-11684180" />
+    <int name="date_left_color" value="-16777216" />
+    <string name="HomeEntry">waca</string>
+    <int name="ModDarkConPickColor" value="-13139076" />
+    <string name="bubble_style">gosms</string>
+    <int name="main_text" value="15" />
+    <int name="ModConPickColor" value="-11684180" />
+    <int name="ModChatBubbleTextLeft" value="-16777216" />
+    <int name="date_right_color" value="-16777216" />
+    <int name="ModConPickBackColor" value="-1" />
+    <int name="ModChatColor" value="-11684180" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

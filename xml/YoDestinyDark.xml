@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="-13154481" />
+    <boolean name="Hide_div" value="true" />
+    <boolean name="Archv_chats" value="false" />
+    <int name="BGColor" value="15422034" />
+    <boolean name="yo_hideinfo" value="false" />
+    <string name="tick_style">oldwaca</string>
+    <int name="ModChatDarkColor" value="-12419227" />
+    <int name="ModFabNormalColor" value="-11886726" />
+    <int name="ModConBackColor" value="-13154481" />
+    <int name="ModChaSendBKColor" value="-13154481" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-12419227" />
+    <int name="ModConColor" value="-11886726" />
+    <boolean name="TxtSelect" value="false" />
+    <string name="chats_play_contact_online_tone">content://media/external/audio/media/17437</string>
+    <int name="ModChatRightBubble" value="-1" />
+    <int name="ConvoBack" value="-14601926" />
+    <int name="ModChatTextColor" value="-1315861" />
+    <boolean name="my_statusd" value="false" />
+    <string name="ConvoEntry">10</string>
+    <boolean name="PicProf" value="true" />
+    <int name="ModlastseenColor" value="-3906460" />
+    <int name="ModConTextColor" value="-723724" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="convostyle">1</string>
+    <int name="text_size_pick" value="14" />
+    <int name="ModFabPressedColor" value="-12419227" />
+    <int name="ModChatEmojiColor" value="-921103" />
+    <int name="ModDarkConPickColor" value="-12419227" />
+    <string name="HomeEntry">yowa</string>
+    <int name="ModChaSendColor" value="-1776412" />
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">altcr</string>
+    <int name="main_text" value="15" />
+    <int name="ModConPickColor" value="-11886726" />
+    <int name="ModOnlineColor" value="-11886726" />
+    <int name="ModChatBtnColor" value="-1644826" />
+    <int name="ModConPickBackColor" value="-13154481" />
+    <boolean name="AttBt" value="false" />
+    <int name="ModChatColor" value="-11886726" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

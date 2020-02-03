@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="-13684945" />
+    <int name="ModChatLeftBubble" value="-13684945" />
+    <boolean name="yo_hideinfo" value="true" />
+    <int name="ModChatDarkColor" value="-2611641" />
+    <string name="tick_style">circles</string>
+    <int name="ModChatGStatusB" value="-54453" />
+    <int name="ModFabNormalColor" value="-54453" />
+    <int name="ModConBackColor" value="-14671840" />
+    <string name="yo_nicons">9</string>
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-2611641" />
+    <int name="ModConColor" value="-54453" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModChatRightBubble" value="-54453" />
+    <int name="ModChatTextColor" value="-54453" />
+    <string name="ConvoEntry">5</string>
+    <int name="ModChatBubbleText" value="-1" />
+    <int name="ModlastseenColor" value="-54453" />
+    <int name="ModChatGStatusT" value="-14671840" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="14" />
+    <int name="date_left_color" value="-1" />
+    <int name="ModChatEmojiColor" value="-54453" />
+    <int name="ModDarkConPickColor" value="-2611641" />
+    <string name="HomeEntry">waca</string>
+    <boolean name="Conv_call_btn" value="true" />
+    <int name="ModChaSendColor" value="-54453" />
+    <string name="bubble_style">hang</string>
+    <int name="main_text" value="15" />
+    <int name="ModConPickColor" value="-54453" />
+    <int name="ModOnlineColor" value="-54453" />
+    <int name="HomeBarText" value="-14409439" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <int name="ModChatBtnColor" value="-54453" />
+    <int name="date_right_color" value="-1" />
+    <int name="ModConPickBackColor" value="-14671840" />
+    <boolean name="start_bl" value="true" />
+    <boolean name="AttBt" value="false" />
+    <int name="ModChatColor" value="-54453" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

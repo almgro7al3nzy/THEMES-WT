@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatLeftBubble" value="-16606465" />
+    <int name="BGColor" value="3593943" />
+    <boolean name="yo_hideinfo" value="false" />
+    <int name="ModChatDarkColor" value="-13224909" />
+    <string name="tick_style">oldwaca</string>
+    <int name="ModChatGStatusB" value="16753920" />
+    <int name="ModFabNormalColor" value="-13224909" />
+    <string name="yo_nicons">12</string>
+    <int name="ModChaSendBKColor" value="-16606465" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConColor" value="-13224909" />
+    <int name="ModChatRightBubble" value="-13224909" />
+    <int name="ConvoBack" value="-3355444" />
+    <int name="ModChatTextColor" value="-1" />
+    <boolean name="my_statusd" value="true" />
+    <string name="font">ProductSans</string>
+    <string name="ConvoEntry">12</string>
+    <boolean name="onlinechat" value="true" />
+    <int name="ModChatBubbleText" value="-16606465" />
+    <int name="ModlastseenColor" value="-11776948" />
+    <int name="text_size_pick" value="18" />
+    <boolean name="Up_size_limit" value="true" />
+    <int name="date_left_color" value="-12303292" />
+    <int name="ModChaSendColor" value="-14340305" />
+    <string name="bubble_style">dual</string>
+    <int name="main_text" value="20" />
+    <int name="ModOnlineColor" value="-16606465" />
+    <int name="HomeBarText" value="-16606465" />
+    <int name="ModChatBubbleTextLeft" value="-12434878" />
+    <int name="date_right_color" value="-16606465" />
+    <boolean name="hide_fab" value="true" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatEntry" value="-13553359" />
+    <int name="ModConBackColor" value="-16606465" />
+    <int name="ModConDarkColor" value="-13224909" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModChatGStatusT" value="-16777216" />
+    <int name="ModConTextColor" value="-13224909" />
+    <int name="HomeCounterBK" value="-11618566" />
+    <string name="convostyle">2</string>
+    <boolean name="Img_highres_btn" value="true" />
+    <int name="ModChatEmojiColor" value="-16606465" />
+    <string name="HomeEntry">yousef</string>
+    <int name="ModDarkConPickColor" value="-13224909" />
+    <int name="ModConPickColor" value="-13224909" />
+    <boolean name="elapsed_time" value="true" />
+    <int name="ModChatBtnColor" value="-16606465" />
+    <boolean name="Img_share_limit" value="true" />
+    <int name="ModConPickBackColor" value="-16606465" />
+    <int name="row_resizer" value="130" />
+    <boolean name="AttBt" value="true" />
+    <int name="ModChatColor" value="-13224909" />
+</map>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatLeftBubble" value="-109209401" />
+    <int name="BGColor" value="-977936392" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="custom_wall" value="false" />
+    <int name="quoted_bg_picker" value="-10386457" />
+    <string name="tick_style">gifcon</string>
+    <int name="ModChatDarkColor" value="-3150849" />
+    <int name="ModChatGStatusB" value="-1093669377" />
+    <int name="ModFabNormalColor" value="-3150849" />
+    <string name="yo_nicons">0</string>
+    <int name="ModChaSendBKColor" value="-16668474" />
+    <boolean name="my_name" value="false" />
+    <int name="ModConColor" value="-3150849" />
+    <boolean name="Pop_Heds" value="true" />
+    <int name="ModChatRightBubble" value="-88350216" />
+    <int name="date_divider_color_picker" value="-109209401" />
+    <int name="ConvoBack" value="-1078411323" />
+    <int name="ModChatTextColor" value="-100663297" />
+    <int name="missed_call_bg_picker" value="-88350216" />
+    <string name="font">Default</string>
+    <string name="ConvoEntry">1</string>
+    <boolean name="chats_show_contact_online_toast_check" value="true" />
+    <boolean name="my_statusd" value="false" />
+    <int name="ModChatBubbleText" value="-11177304" />
+    <boolean name="onlinechat" value="false" />
+    <boolean name="PicProf" value="true" />
+    <int name="ModlastseenColor" value="-1" />
+    <int name="participant_name_color_picker" value="-12030754" />
+    <int name="emojipopup_header" value="-88350216" />
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="multiChats" value="false" />
+    <int name="text_size_pick" value="16" />
+    <int name="quoted_name_picker" value="-578971449" />
+    <int name="date_left_color" value="-704643073" />
+    <int name="ModChaSendColor" value="-1885332" />
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">round</string>
+    <int name="main_text" value="16" />
+    <int name="ModOnlineColor" value="-10386457" />
+    <int name="ModChatBubbleTextLeft" value="-100663297" />
+    <int name="HomeBarText" value="-11177304" />
+    <int name="emojipopup_icons" value="-704643073" />
+    <int name="date_right_color" value="-11177304" />
+    <boolean name="start_bl" value="false" />
+    <boolean name="statuschat" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatEntry" value="-578971449" />
+    <int name="missed_call_icon_bg_picker" value="-2872533" />
+    <boolean name="Archv_chats" value="false" />
+    <int name="ModFabBgColor" value="16777215" />
+    <int name="ModConBackColor" value="-3150849" />
+    <int name="quoted_text_picker" value="-85854465" />
+    <int name="emojipopup_body" value="-85854465" />
+    <int name="ModConDarkColor" value="-3150849" />
+    <boolean name="TxtSelect" value="true" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="enable_old" value="false" />
+    <int name="ModConTextColor" value="-11177304" />
+    <int name="ModChatGStatusT" value="-11177304" />
+    <int name="date_bubble_color_picker" value="-184549377" />
+    <int name="HomeCounterBK" value="-8546105" />
+    <string name="convostyle">3</string>
+    <int name="chat_icon_forward_picker" value="-184549377" />
+    <int name="chat_icon_bg_forward_picker" value="-87036417" />
+    <int name="ModFabPressedColor" value="-16668474" />
+    <int name="ModChatEmojiColor" value="-622533404" />
+    <string name="HomeEntry">yowa</string>
+    <int name="ModDarkConPickColor" value="-3150849" />
+    <int name="ModConPickColor" value="-3150849" />
+    <boolean name="elapsed_time" value="false" />
+    <int name="ModChatBtnColor" value="-109209401" />
+    <int name="ModConPickBackColor" value="-3150849" />
+    <int name="row_resizer" value="0" />
+    <boolean name="AttBt" value="false" />
+    <int name="ModChatColor" value="-3150849" />
+</map>

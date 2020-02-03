@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="true" />
+    <int name="ModChatEntry" value="-15658604" />
+    <int name="ModChatLeftBubble" value="-789517" />
+    <int name="BGColor" value="-15658604" />
+    <boolean name="yo_hideinfo" value="false" />
+    <string name="tick_style">feet</string>
+    <int name="ModChatDarkColor" value="-15658620" />
+    <int name="ModChatGStatusB" value="1594625172" />
+    <int name="ModFabNormalColor" value="-15658604" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-15658620" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModConColor" value="-15658604" />
+    <int name="ModChatRightBubble" value="-1" />
+    <int name="ModChatTextColor" value="-1" />
+    <string name="ConvoEntry">5</string>
+    <boolean name="my_statusd" value="false" />
+    <string name="font">Default</string>
+    <int name="ModChatBubbleText" value="-16777216" />
+    <boolean name="onlinechat" value="false" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModlastseenColor" value="-15658604" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="16" />
+    <int name="ModFabPressedColor" value="-15658604" />
+    <int name="ModChatEmojiColor" value="-1" />
+    <int name="ModDarkConPickColor" value="-15658620" />
+    <string name="HomeEntry">waca</string>
+    <int name="ModChaSendColor" value="-1" />
+    <boolean name="Conv_call_btn" value="false" />
+    <string name="bubble_style">wapaper</string>
+    <int name="main_text" value="16" />
+    <int name="ModConPickColor" value="-15658604" />
+    <int name="ModOnlineColor" value="-13713100" />
+    <int name="ModChatBtnColor" value="-1" />
+    <boolean name="start_bl" value="false" />
+    <int name="ModChatColor" value="-15658604" />
+    <boolean name="AttBt" value="true" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

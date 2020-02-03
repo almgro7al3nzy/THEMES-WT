@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="-651547085" />
+    <int name="ModChatLeftBubble" value="-404109003" />
+    <int name="BGColor" value="-889178810" />
+    <boolean name="yo_hideinfo" value="false" />
+    <string name="tick_style">newwaca</string>
+    <int name="ModChatDarkColor" value="-16760233" />
+    <int name="ModConBackColor" value="-16760233" />
+    <int name="ModFabNormalColor" value="-16760233" />
+    <int name="ModChaSendBKColor" value="-4249046" />
+    <int name="ModConDarkColor" value="-16760233" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModConColor" value="-16760233" />
+    <int name="ModChatRightBubble" value="-419414447" />
+    <int name="ModChatTextColor" value="-1052689" />
+    <string name="font">Default</string>
+    <string name="ConvoEntry">0</string>
+    <int name="ModChatBubbleText" value="-592138" />
+    <int name="ModlastseenColor" value="-3258296" />
+    <int name="ModConTextColor" value="-2371840" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="15" />
+    <int name="date_left_color" value="-732999857" />
+    <int name="ModChatEmojiColor" value="-6046321" />
+    <int name="ModDarkConPickColor" value="-16760233" />
+    <boolean name="Conv_call_btn" value="true" />
+    <int name="ModChaSendColor" value="-5166293" />
+    <string name="bubble_style">wapaper</string>
+    <int name="main_text" value="16" />
+    <int name="ModConPickColor" value="-16760233" />
+    <int name="ModOnlineColor" value="-16746581" />
+    <int name="ModChatBubbleTextLeft" value="-15000805" />
+    <int name="HomeBarText" value="-398051" />
+    <int name="ModChatBtnColor" value="-398051" />
+    <int name="date_right_color" value="-388112931" />
+    <int name="ModConPickBackColor" value="-16760233" />
+    <int name="ModChatColor" value="-16760233" />
+    <boolean name="AttBt" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

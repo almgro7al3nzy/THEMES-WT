@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatLeftBubble" value="-396802" />
+    <int name="BGColor" value="-1577058305" />
+    <boolean name="yo_hideinfo" value="false" />
+    <string name="tick_style">ios</string>
+    <int name="ModChatDarkColor" value="-6280244" />
+    <int name="ModChatGStatusB" value="-5097504" />
+    <int name="ModFabNormalColor" value="-5097504" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-6280244" />
+    <int name="ModConColor" value="-5097504" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModChatRightBubble" value="-396802" />
+    <int name="ModChatTextColor" value="-5097504" />
+    <string name="ConvoEntry">4</string>
+    <int name="ModChatBubbleText" value="-5489695" />
+    <int name="ModlastseenColor" value="-5097504" />
+    <boolean name="PicProf" value="false" />
+    <int name="ModConTextColor" value="-5097504" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="convostyle">0</string>
+    <int name="text_size_pick" value="16" />
+    <int name="ModFabPressedColor" value="-5097504" />
+    <int name="date_left_color" value="-5097504" />
+    <int name="ModChatEmojiColor" value="-5097504" />
+    <int name="ModDarkConPickColor" value="-6280244" />
+    <string name="HomeEntry">yousef</string>
+    <boolean name="Conv_call_btn" value="false" />
+    <int name="ModChaSendColor" value="-5097504" />
+    <string name="bubble_style">wp</string>
+    <int name="main_text" value="16" />
+    <int name="ModOnlineColor" value="-5097504" />
+    <int name="ModConPickColor" value="-5097504" />
+    <int name="ModChatBubbleTextLeft" value="-5489695" />
+    <int name="ModChatBtnColor" value="-5097504" />
+    <int name="date_right_color" value="-5097504" />
+    <int name="ModChatColor" value="-5097504" />
+    <boolean name="AttBt" value="true" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

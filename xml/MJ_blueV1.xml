@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="true" />
+    <int name="BGColor" value="16777215" />
+    <string name="tick_style">nh</string>
+    <boolean name="yoHideReadB" value="false" />
+    <boolean name="extended_notifi" value="true" />
+        <string name="yo_nicons">8</string>
+    <int name="ModConPickBackColor" value="-1" />
+    <boolean name="yoHideReadC" value="false" />
+    <boolean name="my_name" value="true" />
+    <boolean name="yoHideReceiptG" value="false" />
+    <int name="ModFabPressedColor" value="-15517366" />
+    <int name="ModConPickColor" value="-13462058" />
+    <boolean name="Img_highres" value="false" />
+    <int name="ModConColor" value="-13462058" />
+    <boolean name="Pop_Heds" value="true" />
+    <string name="ConvoEntry">5</string>
+    <boolean name="my_statusd" value="false" />
+    <int name="ModFabBgColor" value="-1447447" />
+    <int name="ModOnlineColor" value="-13710223" />
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="yoHideReadG" value="false" />
+    <int name="text_size_pick" value="15" />
+    <int name="ModConBackColor" value="-1" />
+    <int name="ModChatDarkColor" value="-13462058" />
+    <boolean name="Up_size_limit" value="true" />
+    <int name="ModChatLeftBubble" value="-1381654" />
+    <int name="ModChatRightBubble" value="-3550253" />
+    <boolean name="yoHideReceiptB" value="false" />
+    <string name="bubble_style">materialized</string>
+    <int name="main_text" value="15" />
+    <boolean name="yoHideReceiptC" value="false" />
+    <boolean name="Img_quickcamhold" value="true" />
+    <boolean name="start_bl" value="false" />
+    <int name="ModChatGStatusB" value="-4079167" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="Audio_ears" value="false" />
+    <int name="ModChatTextColor" value="-16777216" />
+    <int name="ModDarkConPickColor" value="-13462058" />
+    <int name="ModConDarkColor" value="-13462058" />
+    <int name="ModChatBtnColor" value="-15517109" />
+    <int name="ModlastseenColor" value="-2272955" />
+    <int name="ModFabNormalColor" value="-13462058" />
+    <int name="ModChatGStatusT" value="-15333882" />
+    <string name="convostyle">3</string>
+    <boolean name="Img_highres_btn" value="true" />
+    <int name="ModChatEntry" value="-13462058" />
+    <string name="HomeEntry">waca</string>
+    <boolean name="yoHideSeen" value="true" />
+    <int name="ModChatBubbleText" value="-16777216" />
+    <int name="ModChatColor" value="-13462058" />
+    <int name="ModChatBubbleTextLeft" value="-16383486" />
+    <boolean name="Img_share_limit" value="true" />
+</map>

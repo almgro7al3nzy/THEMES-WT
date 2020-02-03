@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="BGColor" value="-16744513" />
+    <string name="tick_style">newwaca</string>
+    
+    <int name="ModChatTextColor" value="-1" />
+    <int name="ModConPickBackColor" value="-1" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConPickColor" value="-16744513" />
+    <int name="ModDarkConPickColor" value="-16744513" />
+    <int name="ModConColor" value="-16744513" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModConDarkColor" value="-16744513" />
+    <int name="ModChatBtnColor" value="-1" />
+    <string name="ConvoEntry">2</string>
+    <boolean name="PicProf" value="true" />
+    <int name="ModFabNormalColor" value="-16744513" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="ModChatGStatusT" value="-13154481" />
+    <int name="text_size_pick" value="15" />
+    <int name="ModConBackColor" value="-1" />
+    <int name="ModChatDarkColor" value="-16744513" />
+    <int name="ModChatLeftBubble" value="-1493132328" />
+    <int name="ModChatRightBubble" value="-1259208962" />
+    <int name="ModChatEntry" value="-1" />
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">dual</string>
+    <int name="main_text" value="15" />
+    <int name="ModChatColor" value="-16744513" />
+    <int name="ModChatBubbleText" value="-14145496" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <boolean name="start_bl" value="false" />
+    <int name="ModChatGStatusB" value="-1" />
+    <boolean name="statuschat" value="false" />
+    <boolean name="AttBt" value="false" />
+    <int name="square_photo_ratio_picker" value="68" />
+</map>

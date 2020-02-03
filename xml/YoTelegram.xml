@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="convostyle">0</string>
+    <int name="text_size_pick" value="15" />
+    <string name="tick_style">yousef</string>
+    <int name="ModChatDarkColor" value="-11242083" />
+    <int name="ModChatRightBubble" value="-1638447" />
+    <string name="HomeEntry">telegram</string>
+    <boolean name="Conv_call_btn" value="true" />
+    <int name="ModConPickColor" value="-11242083" />
+    <int name="ModFabPressedColor" value="-11242083" />
+    <string name="bubble_style">hike</string>
+    <int name="ModDarkConPickColor" value="-11242083" />
+    <int name="ModConColor" value="-11242083" />
+    <int name="main_text" value="15" />
+    <int name="ModChatColor" value="-11242083" />
+    <int name="ModConDarkColor" value="-11242083" />
+    <int name="ModChatBtnColor" value="-5789785" />
+    <string name="ConvoEntry">0</string>
+    <boolean name="PicProf" value="false" />
+    <boolean name="hide_fab" value="false" />
+    <int name="ModFabNormalColor" value="-11242083" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="log_show_name_check" value="true" />
+</map>

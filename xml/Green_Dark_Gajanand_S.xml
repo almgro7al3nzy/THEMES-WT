@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="false" />
+    <boolean name="Archv_chats" value="false" />
+    <int name="BGColor" value="-1442357676" />
+    <boolean name="yo_hideinfo" value="false" />
+    <string name="tick_style">oldwaca</string>
+    
+    <int name="ModChatTextColor" value="-1" />
+    <boolean name="my_name" value="true" />
+    <int name="ModChatBtnColor" value="-1" />
+    <int name="ModlastseenColor" value="-1438708" />
+    <string name="ConvoEntry">0</string>
+    <boolean name="PicProf" value="false" />
+    <int name="ModOnlineColor" value="-15742422" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="ModChatGStatusT" value="-1" />
+    <string name="convostyle">0</string>
+    <int name="text_size_pick" value="15" />
+    <int name="ModChatLeftBubble" value="-502833580" />
+    <int name="ModChatRightBubble" value="-503364096" />
+    <int name="ModChatEntry" value="-1569116" />
+    <string name="HomeEntry">waca</string>
+    <boolean name="Conv_call_btn" value="false" />
+    <string name="bubble_style">altcr</string>
+    <int name="main_text" value="15" />
+    <int name="ModChatBubbleText" value="-1" />
+    <boolean name="Img_quickcamhold" value="false" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <boolean name="start_bl" value="true" />
+    <boolean name="AttBt" value="true" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="Audio_sensor" value="false" />
+</map>
